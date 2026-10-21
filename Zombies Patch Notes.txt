@@ -1,0 +1,108 @@
+==Zombie Patch Notes==
+Almanac: The Zombies Alamanac has received numerous changes. It now provides more specific information on zombie speed and health as well as certain attributes the base almanac fails to mention.
+==========
+
+Basic Zombies: Health 190 → 200
+               Just to make it a bit harder for Lightning Reed to kill basics.
+			   
+Imps: ▼ Health: 190 → 150
+      Despite being smaller, Imps are better than normal zombies since they have the same health, but are faster. All Imps (except the Jurassic Marsh ones) have had their health reduced to make them a bit more unique.
+	  
+Gargantuars: ▲ All Gargantuars with the exception Sloth Gargantuar are immune to Inferno's knockback.
+             Even with all of the nerfs, Inferno could still infinitely stall Gargantuars. This should no longer be a problem. The Sloth Gargantuar was made an exception to this rule to emphasize Frostbite Caves' zombies' 
+			 weakness to fire.
+
+Prospector Zombie: ▲ Health: 200 → 250
+                   The problem with this zombie is that its low health and weakness to ice plants often leads to it being dealt with before it can launch itself to the front of the lawn. It has a bit more health to make it a bit
+                   harder to fight.
+
+Chicken Wrangler Zombie: ▲ Health: 200 → 270
+                         Reverted to pre-6.3.1. health to make it a bit more threatening after he releases his chickens.
+
+Jetpack Zombies: ▲ Speed: 0.3 → 0.4
+                 Never really that threatening due to being trivialized by Blover. They are a bit faster now and Blover has been nerfed, making them more of a threat.
+
+Jester Zombie: ▼ Health: 420 → 300
+               A bit too much health for how dangerous it is. It often requires at least two Fume-shrooms to be dealt with and the player often lacks the sun for that. A minimal health reduction should make it fair to fight.
+
+Zombie King: ▼ No longer knights zombies if they already have armor on.
+             Being able to knight zombies that already have armor is a bit unfair. Now it can only knight basics.
+
+Surfer Zombie: ▼ Health: 350 → 270
+               A bit too much health for how dangerous it is.
+
+Octo Zombie: ▼ Health: 910 → 510
+             ▼ Octopus Health: 400 → 300
+             Too much health for how dangerous his ability is. His health has been reduced and the octopi he throws is easier to kill too.
+
+Fisherman Zombie: ▼ Health: 1000 → 200
+                  Somehow has more health than a Conehead despite wearing no armor. His health has been reduced significantly due to the player having little opportunity to engage him as he is all the way in the back and his 
+				  health is too high for how dangerous he is.
+				  
+Troglobite: ▲ Health: 470 → 510
+            Pretty much useless after all of his blocks are destroyed. It should have a bit more staying power now.
+
+Relic Hunter Zombie: ▼ Health: 700 → 300
+                     Too much health for an unarmored zombie that appears in the middle of the lawn.
+
+MC Zom-B: ▼ Damage: 3001 → 150
+          Way too strong. Can easily decimate your defenses and has no counterplay. Its damage has been drastically reduced. It now takes two hits to take down most plants.
+		  
+Glitter Zombie: ▼ Health 490 → 420
+                A bit less tanky.
+
+Boombox Zombie: ▼ Can be disabled by E.M. Peach.
+                His boombox is a machine.
+
+Newspaper Zombie: ▼ Damage multiplier: 4 → 3
+                  ▼ Speed multiplier: 4 → 3
+                  Way too strong. It takes too much effort to destroy the newspaper and it becomes insanely strong after. It will likely decimate your defenses or trigger a lawnmower before it can be killed. Its toughness, and 
+                  increased speed have been reduced so it should be a little easier to handle.
+
+Balloon Zombie: ▼ Grounded speed: 0.4 → 0.185
+                The player should be rewarded for popping its balloon by slowing it down.
+				
+All-Star Zombie: ▼ Head can be removed by Magnet-shroom.
+                 Despite his helmet being removable in the first game, it isn't in this game for some reason. It would preferable if just the helmet was removed, but let's just say his helmet is on so tight, his head got removed
+				 with it.
+				 
+Sportz-ball Gargantuar: ⇔ Replaces normal Gargantuars in the Modern Day Expansion.
+                        Added for more zombie variety.
+				
+KongFu Zombies: ▼ Many health reductions
+                Most of the zombies have too much health for zombies with special abilities, making them to difficult to deal with.
+
+Imp Fighter Pilot: ▼ Can be disabled by E.M. Peach.
+                   His plane is a machine.
+				
+Double Cabin Aircraft: ▼ DPS: 1000 → 600
+                       ▼ Can be disabled by E.M. Peach.
+                       Destroys Spinapple too quickly, making it ineffective as a wall. The Double Cabin usually appears alongside Imp Fighter Pilots so their high DPS will make plants vulnerable to Imp Fighter Pilot after the 
+					   Spinapple is killed, decimating your defenses.
+
+Scientist Zombie: ▼ Health: 700 → 270
+                  Too much health for an unarmored zombie.
+				  
+Drone Engineer: ▼ Health: 2000 → 350
+                ▼ Helmet health: 1600 → 1100
+				▼ Helmets can be removed by Magnet-shroom.
+                Too much health for an unarmored zombie that hangs in the back and the helmets make zombies impossible to kill.
+
+Arbiter-X: ▼ Health: 4000 → 3500
+           ▼ Can be disabled by E.M. Peach.
+           Should not have more health than a Gargantuar.
+		   
+Zomboni: ▼ Can be disabled by E.M. Peach.
+         His zamboni is a machine.
+		 
+Catapult Zombie: ▼ Can be disabled by E.M. Peach.
+                 His vehicle is a machine.
+
+==Future Additions==
+Balance changes I want to make, but aren't possible right now due to limitations with the GE Patcher.
+
+Excavator Zombie: Shovel can be removed by Magnet-shroom.
+
+MC Zom-B: Microphone can be removed by Magnet-Shroom.
+
+Boombox Zombie: Boombox can be removed by Magnet-shroom.

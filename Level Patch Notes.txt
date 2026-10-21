@@ -1,0 +1,201 @@
+==Level Patch Notes==
+Due to the mod's various balance changes, certain levels have been rendered impossible. The following balance changes have been made to the following levels:
+==========
+Neon Mixtape Tour: Sun no longer falls.
+                   This world takes place at night. Sun shouldn't be falling.
+
+Appease-mint 1 Level 4: Removed some of the Bot Swarms.
+                        Blover isn't as available due to its increased sun cost and recharge. The Bot Swarms have been thinned to accomodate this change.
+
+Buttercup Level 2: Added Iceberg Lettuce to the plant lineup.
+                   No longer possible due to it being harder to get Buttercups on the lawn due to its increased recharge. Iceberg Lettuce was added as an additional option to hold off the zombies.
+				   
+Buttercup Level 3: Added an extra plant slot.
+                   Buttercup alone is no longer capable of dealing with the zombies. You will need a third option.
+						
+Reinforce-mint Level 1: Added five more Repeaters to the conveyor belt.
+                        The player is likely to lose some of their Repeaters, which turns the level into a slog.
+						
+Reinforce-mint Level 2: Replaced Repeater with Peashooter. 
+                        Removed one of the Punk Zombies in Wave 3.
+                        No longer possible due to Holly Knight's reduced knockback area. One of the Punk Zombies in Wave 3 has been removed to avoid dividing the player's resources and attention. Reapeater is too expensive, so 
+						Peashooter takes its place as it is better to get weaker plants to cover multiple lanes rather than having a powerful plant that can only cover two lanes at most before a zombie crosses the flower line.
+
+Reinforce-mint Level 5: Now a daytime level. 
+                        Added Holly Knight and Sweet Potato to the plant selection. 
+						Time limit has been removed.
+						Blover's increased sun cost is higher than the sun the player is given. Even with all of these changes, this level is still awful to play because the window between planting Blover and launching a barrier
+						is so small that Blover will often fail to blow away zombies before the barrier lands.
+
+Reinforce-mint Level 6: Removed all plant restrictions except for Skyshooter. 
+                        Moved the portal that spawns on Wave 2 to Column 6. 
+						Portals no longer spawn Gargantuars.
+						A portal spawning on Wave 2, on the 4th column, that spawns Barrel and Seagull Zombies before the player has a chance to fight back isn't fair. Gargantuars spawning from portals isn't fair either.
+						
+Reinforce-mint Level 11: Now a daytime level.
+                         Holly Knight's increased sun cost and recharge makes it impossible to get it out on the lawn in time to deal with zombies in time.
+
+Solar Tomato Level 1: Removed Rocket Strikes.
+                      Rocket Strikes are never fair.
+					  
+Solar Tomato Level 5: The first two Barrel Roller Zombies spawn on Wave 2 instead of Wave 1.
+                      Due to Solar Tomato's increased recharge, the player no longer has the means to stop the Barrel Rollers before they enter the lawn.
+					  
+Goo Peashooter Level 3: Added E.M. Peach to the plant lineup.
+						The Double Cabin Zombies completely ruin this level now that Goo Peashooter is more expensive and Apple Mortar no longer stuns. E.M. Peach has been added to deal with them as well as demonstrate its 
+						ability to disable aircraft.
+						
+Goo Peashooter Level 4: Replaced Veteran Explorers with normal Explorers.
+                        The Veterans make this level artifically harder than it should be. They're so fast that Goo Peashooter can never hit them.
+
+Goo Peashooter Level 5: Removed objective.
+                        It's completely impossible to prevent zombies from crossing the flower line.
+						
+Ice-shroom Level 2: Unbanned Escape Root.
+                    This level was made artificially difficult with the ban on Escape Root. It's obvious you're supposed to use it to save Ice-shroom from the Hair Metal Gargantuars.
+					
+Ice-shroom Level 5: Removed the mold colonies.
+                    The limited space makes this level impossible. Even with this change, this level is still awful to play because the amount of time the player has to react to the Barrel Rollers is too short and they often kill
+					your Sunflowers through no fault of your own.
+					
+Doom-shroom Level 1: Added mowers.
+                     Guessing game levels aren't fun. The mowers have been added as a failsafe.
+					 
+Doom-shroom Level 2: Tide goes out on Wave 10. 
+                     Removed all plant restrictions.
+					 The tide prevents Doom-shroom from dealing with the All-Star Zombies on Wave 10. Banning water plants in a water level is ridiculous.
+					 
+Doom-shroom Level 4: Replaced the Brickheads and Gargantuar Primes in the early waves with Coneheads and Bucketheads.
+                     Sending out Brickheads and Gargantuars before the player has the means to deal with them isn't fair.
+					 
+Seashooter Level 2. Added Tangle Kelp and Imitater to the plant selection. 
+                    Moved the Torchwoods back one tile. 
+					The tide goes out on Wave 7 instead of Wave 6.
+					The tide goes out one tile less between Wave 7 and Wave 10 to allow for better Tangle Kelp placement.
+					No longer beatable due to Seahooter's increased sun cost and Torchwood's reduced health. Tangle Kelp and Imitater have been added to deal with zombies in undefended lanes.
+
+Parsnip Level 3: Removed flower line.
+                 Parsnip cannot be spammed as effectively to prevent the zombies from crossing over the flower line.
+
+Parsnip Level 4: Removed Rocket Strikes.
+                 Rocket Strikes are never fair.
+
+Parsnip Level 5: Removed Blover from the plant lineup. 
+                 Added Bowling Bulb and Shrinking Violet to the plant lineup. 
+				 Reduced the number of Gargantuars.
+				 Blover is useless due to the nerfs it received and the nerfs to Parsnip. Bowling Bulb has been added for an extra damage source and Shrinking Violet has been added to deal with the Gargantuars.
+				 
+Arma-mint Level 3: Reduced delay between seed packets.
+                   The player is often screwed over because of the frequent tidal changes, leading to you losing your Lotorpedoes. Seed packets now spawn faster so the player can easily replace any lost Lotorpedoes.
+
+Arma-mint Level 9: Added Umbrella Leaf to the plant lineup.
+                   While this level is still possible, being forced to lose your Sunflowers every wave isn't fun. Now you have a way to properly deal with the Lost Pilot Veterans.
+
+Ice Bloom Level 1: Removed 15-plant limitation.
+                   Limiting the amount of plants on the lawn is never fair.
+
+Ice Bloom Level 3: Replaced some of the All-Star Zombies with Bomb Zombies and removed the rest.
+                   Forcing the player to deal with All-Star Zombies on Wave 1 isn't fair. They have been replaced with a more balanced insta-kill zombie.
+
+Ice Bloom Level 4: Turned off 8-bit Jam on Wave 1.
+                   Removed Parachute Rain on Wave 3.
+                   There are too many zombies to deal with so early. The player has no way of dealing with them.
+
+Appease-mint 2 Level 6: Replaced Jester Zombies with Weasel Hoarders.
+                        No longer possible due to Torchwood's reduced health and the removal of its insta-kill ability. The Jesters make the level impossible. They have beem replaced with Weasel Hoarders as the Weasels retain the
+						difficulty by ignoring ice floes.
+
+Pepper-mint Level 2: Added Sun-shroom to the plant selection.
+                     The plant selection will no longer be sufficient to deal with zombies as the level goes on.
+					 
+Pepper-mint Level 3: Added Perfume-shroom and Thyme Warp to the plant selection.
+                     With Inferno's reduced stalling capabilities, the player needs more options to stall the zombies. It's also ridiculous to have dinosaurs in a level, but no Perfume-shroom to deal with them.
+					 
+Pepper-mint Level 4: Removed objective.
+                     This level is impossible due to Wasabi Whip's reduced attack rate. The objective was removed to compensate.
+					 
+Pepper-mint Level 8: Replaced Sun-shroom with Sunflower and removed the Punk Jam on Wave 8.
+                     Using Sun-shrooms in a daytime level makes it harder than necessary. The Punk Jam was removed as the skunks immediately shut down your plants and made the level impossible.
+
+Shine Vine Level 1: Added Blover to the plant selection.
+                    No longer possible to get enough Toadstools on the lawn to deal with the Bug Zombies. Blover should help deal with them.
+
+Shine Vine Level 5: Removed Shield Zombies.
+                    The Shield Zombies force you to waste Coconut Cannon shots and make the level impossible to complete.
+
+Shine Vine Level 6: Reduced sun quota from 4500 to 3000.
+                    4500 is too much and impossible to attain unless you to use a very specific strategy that the average player isn't capable of.
+
+Strawburst Level 3: Removed objectives.
+                    Made the the level more difficult than necessary.
+
+Strawburst Level 4: Removed sun spending limit.
+                    Limiting the amount of sun a player can spend is never fair.
+					
+Strawburst Level 6: Replaced Zombie King Veterans with Knight Zombies. 
+                    Reduced the number of zombies in the early waves.
+					There are too many zombies in the early waves that divide your attention and resources.
+					 
+Mirror-nut Level 3: Removed objective.
+                    Sun spending limits aren't fair.
+					
+Meteor Flower Level 2: Torch Monks no longer spawn from the portals.
+                       It's ridiculous to spawn fire zombies in a level that forces you to use a fire plant.
+					   
+Conceal-mint Level 2: Replaced the Buckethead on Wave 2 with a Conehead. 
+                      Replaced Newspaper Veterans with normal Newspaper Zombies. 
+					  Removed the flower line.
+					  No longer possible to prevent the zombies from crossing over the flower line due to nerfs to Shadow Peashooter.
+					  
+Conceal-mint Level 5: Replaced Bull Rider Veterans with normal Bull Riders.
+                      The Bull Rider Veterans make this level harder than necessary.
+
+Conceal-mint Level 7: Unbanned Moonflower.
+                      Noctarine's gas no longer damaging zombies means it is no longer effective enough in this level.
+					  
+Conceal-mint Level 8: Replaced Murkadamia Nut with Primal Wall-nut. 
+                      Added Nightshade to the plant selection. 
+					  Replaced the Veteran Explorer Zombies with normal Explorer Zombies. 
+					  Only one portal appears per wave. 
+					  All-Star Zombies and Super Fan Imps no longer spawn in Lanes 1 and 5.
+					  Primal Wall-nut is better at dealing with the All-Stars than Murkadamia Nut. Portals are never a fair mechanic, so only one spawns per wave. The player's focus should be on Lanes 2-4. Spawning All-Stars in 
+					  the other lanes divides the player's attention.
+					  
+Conceal-mint Level 11: Replaced the Disco-tron 3000s with Knight Zombies.
+                       Noctarine's gas was the only way to deal with Disco Jetpack zombies. Now that it no longer has that, they are impossible to deal with.
+					
+Gloom-shroom Level 2: Removed sun spending limit.
+                      Limiting the amount of sun a player can spend on top of the other objectives is completely unfair.
+					
+Atomic Bombegranate Level 1: Added a second Seedling.
+                             No longer beatable due to the nerfs to Atomic Bombegranate. A second Seedling has been added to compensate.
+							 
+Atomic Bombegranate Level 4: Turned off Punk Jam on Wave 1. 
+                             Removed half of the Parachute Rain events. 
+							 Replaced several Newspaper Zombies with Basics. 
+							 Replaced Newspaper Veterans with normal Newspaper Zombies. 
+							 Replaced Three-section Staff Abbots with Hammer Zombies.
+							 Poorly-designed level that forces several strong zombies onto the player before they have the means to deal with them.
+
+Endless Zones: Several plants considered essential to their respective worlds have been added to the starting plant lineups of several endless zones.
+							 
+Pyramid of Doom: Added Cabbage-pult and Grave Buster to the starting plant lineup.
+
+Dead Man's Booty: Added Kernel-pult to the starting plant lineup.
+
+Big Bad Butte: Added Lightning Reed to the starting plant lineup.
+               Replaced Peashooter with Splitpea.
+
+Terror From Tomorrow: Added Blover and E.M. Peach to the starting plant lineup.
+
+Arthur's Challenge: Added Grave Buster to the starting plant lineup.
+
+Tiki Torch-er: Added Tangle Kelp to the starting plant lineup.
+
+Icebound Battleground: Added Pepper-pult to the starting plant lineup.
+
+Temple of Bloom: Added Umbrella Leaf to the starting plant lineup.
+
+Greatest Hits: Replaced Peashooter and Sunflower with Puff-shroom and Sun-shroom.
+
+Highway to the Danger Room: Added Dusk Lobber to the starting plant lineup.

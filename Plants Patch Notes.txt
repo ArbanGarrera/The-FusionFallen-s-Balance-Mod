@@ -1,0 +1,592 @@
+==Plant Patch Notes==
+Almanac: The Plants Alamanac has received numerous changes. It now provides more specific information on plants, eg. Firing rates, Stun duration, Cooldowns. Various plants have had their entries changed based on the various
+balancing changes they have received. 
+
+Plant availability: An issue with the later worlds of Plants VS. Zombies 2 is that the plants stop being catered to the zombies and mechanics of the worlds. This is especially prevalent in Neon Mixtape Tour and Modern Day. None of
+the plants obtained in these worlds counter any of the worlds' zombies and mechanics. The player often resorts to using instant use plants to get rid of the zombies. Worlds after Far Future also give you less plants, usually five
+compared to the seven of the earlier worlds. The goal is for each world to have 7-8 plants. The following plants have been moved:
+
+Snow Pea: Now obtained from Ancient Egypt Level 24. It's better to have this plant early than later. Snow Pea isn't that effective in Kongfu Temple because of the weapon stands and Hammer Zombie.
+Twin Sunflower: Now obtained from Ancient Egypt Level 21.
+Squash: Now obtainable from the store after completing Ancient Egypt Level 6. A plant as simple as Squash shouldn't be locked behind several difficult levels.
+Grapeshot: Now obtainable from the store after completing Ancient Egypt Level 24-1. Grapes were widely cultivated in Ancient Egypt to make wine.
+Sling Pea: Now obtainable from the store after completing Ancient Egypt Level 28. Fits in a lobber-centric world.
+Garlic: Now obtained from Pirate Seas Level 18. Replaces Spikerock. The planks make it easy for it to manipulate zombies.
+Pea-nut: Now obtainable from the store after completing Pirate Seas Level 10. The player is used to Peashooters and Wall-nuts by this point in the game, so why not give them a combination of the two?
+Marigold: Now obtainable from the store after completing Pirate Seas Level 24-1. A plant that allows you to farm money should be locked behind a really hard level and the money plant fits with pirates wanting treasure.
+Iceweed: Now obtainable from the store after completing Pirate Seas Level 29. This plant should not be obtainable before you get normal Spikeweed and it fits in with the same world you get the original Spikeweed.
+Torchwood: Now obtained from Wild West Level 15. At this point you have enough Peashooter options to use with this plant.
+Cactus: Now obtainable from the store after completing Wild West Level 10. Fits with the desert theme.
+Cran Jelly: Now obtainable from the store after completing Wild West Level 24-1. It fits in the world since 19th century America was where the cranberry was first cultivated.
+Chilly Pepper: Now obtainable from the store as a ticket plant. It's still pretty strong that it should be locked behind tickets.
+Power Lily: Now obtained from Far Future Level 21. Fits in a plant food-centric world.
+Imitater: Now obtainable from the store after completing Far Future Level 10. It turns into a clone of a plant and cloning is a futuristic concept.
+Moon Bean: Now obtainable from the store after completing Far Future Level 24. It revolves around a Far Future mechanic so it belongs in this world.
+Hypno-shroom: Now obtained from Dark Ages Level 8. It is more useful in Dark Ages than other worlds due to the larger supply of high toughness zombies like Knight Zombies and zombies under the effects of potions.
+Scaredy-shroom: Now obtained from Dark Ages Level 11. This plant should be obtained earlier. By the time you get it, you've already beaten the main levels.
+Pumpkin: Now obtained from Dark Ages Level 18. Its Halloween aesthetic fits with night levels and it has synergy with Scaredy-shroom.
+Plantern: Now obtainable from the store after completing Dark Ages Level 18-1. Completely useless without plant food. It shouldn't be locked behind extremely hard levels. Being a store plant is more reasonable.
+Witch Hazel: Now obtainable from the store after completing Dark Ages Level 24. Not that strong so it should be a gemium instead of a ticket plant.
+Bowling Bulb: Now obtained from Big Wave Beach Level 8.
+Sea-shroom: Now obtained from Big Wave Beach Level 11. This plant should be obtained earlier. By the time you get it, you've already beaten the main levels.
+Chomper: Now obtained from Big Wave Beach Level 14. Chomper can serve as a counter to Surfer Zombie, as it kills the zombie without causing it to drop his board.
+Ghost Pepper: Now obtained from Big Wave Beach Level 21. Ghost Pepper can be planted over the water and helps dealing with Octo Zombies and Fisherman Zombies in the back.
+Lava Guava: Now obtained from Frostbite Caves Level 14. It can warm plants and can be positioned near slider tiles so zombies walk right into his lava pool.
+Jalapeno: Now obtained from Frostbite Caves Level 17. Jalapeno can serve as a counter to Troglobite, as it covers the zombie's range and it can kill the Yeti Imps without needing to break the ice blocks first.
+Pyre Vine: Now obtained from Frostbite Caves Level 23. It can serve as a fast warmer and the player isn't railroaded into picking only fire plants since it doesn't take up space on the lawn.
+Starfruit: Now obtained from Frostbite Caves Level 26. Replaces Rotobaga. Had a similar role to Rotobaga and it can take advantage of the slider tiles.
+Umbrella Leaf: Now obtained from Lost City Level 14. Umbrella Leaf can serve as a counter to Lost Pilot Zombie and Lost Raider Zombie.
+Toadstool: Now obtained from Lost City Level 22. Its a toad in a world full of bug enemies. What more can I say?
+Escape Root: Now obtained from Lost City Level 29. It is a plant that functions like a trap so it fits with a world full of trap tiles.
+Turkey-pult: Now obtainable from the store as a gemium plant after completing Lost City Level 31. It isn't strong enough to be a ticket plant. 
+Sweet Potato: Now obtained from Neon Mixtape Tour Level 9. Replaces Thyme Warp. It's too simple of a plant to be in an epic quest and it has synergy with Phat Beet.
+Spikerock: Now obtained from Neon Mixtape Tour Level 11. It fits thematically with the world as a plant with 'rock' in its name would fit with the rock 'n' roll world.
+Hurrikale: Now obtained from Neon Mixtape Tour Level 17. Replaces Garlic. Hurrikale can serve as a counter to Breakdancer Zombie by pushing back the zombies it kicks.
+Shrinking Violet: Now obtained from Neon Mixtape Tour Level 21. Replaces Spore-shroom. All of the zombies have dangerous special abilities and Shrinking Violet can turn them off or weaken them.
+Spore-shroom: Now obtained from Neon Mixtape Tour Level 29. It isn't that essential and doesn't interact with any of the zombies or mechanics of the world.
+Caulipower: Now obtainable from the store after completing Neon Mixtape Tour 39. This is the level that introduces Caulipower, there's no reason why it shouldn't be available after its completion.
+Homing Thistle: Now obtained from Jurassic Marsh Level 11. Homing Thistle can attack the zombies moved to the back of the lawn by pterodactyls. Splitpea can't deal with the Bucketheads on its own.
+Sap-fling: Now obtained from Jurassic Marsh Level 17. Fits thematically with the world as tree sap can form amber. There are many instances of amber containing fossils. Also serves to mitigate the T-Rex's effects.
+Blooming Heart: Now obtained from Jurassic Marsh Level 20. It can serve as a counter to Jurassic Bully.
+Primal Sunflower: Now obtained from Jurassic Marsh Level 29.
+Snap Pea: Now obtainable from the store after completing Jurassic Marsh Level 3. Replaces Grapeshot. It has a dinosaur-like appearance.
+Murkadamia Nut: Now obtained from Modern Day Level 4. It has gameplay applications as a counter to Newspaper Zombie.
+Nightshade: Now obtained from Modern Day Level 14.
+Gloom Vine: Now obtained from Modern Day Level 20. It doesn't make sense to have this in the store at the start of the game when the player doesn't have any shadow plants yet.
+Thyme Warp: Now obtained from Modern Day Level 27. Fits thematically with the world.
+Angel Starfruit: Now obtainable from the store after completing Modern Day Level 13. A plant this powerful should be saved for the final world.
+Snowdrop: Now obtained from KongFu Temple Level 6. Replaces Snow Pea. A better fit for this world as it can ignore weapon stands and Hammer Zombie.
+Explode-O-Nut: Now obtainable from the store after completing KongFu Temple Level 22. Replaces Power Lily. Fits in an explosive-themed world.
+Acesparagus: Now obtained from Sky City Level 3. Doesn't deserve to be a gemium.
+Rotobaga: Now obtained from Sky City Level 8. Replaces Moon Bean. It is a a flying plant and it is obtained there in the Chinese version.
+Loquat: Now obtained from Sky City Level 17. It should be available earlier.
+
+Plant selections in certain levels have been adjusted to fit with the changes to plant availability.
+
+Squash, Torchwood, Pumpkin, Plantern, Ghost Pepper, Umbrella Leaf, Sweet Potato, Sap-fling, Blooming Heart, Murkadamia Nut and Gloom Vine's Epic Quest levels are still available to play, but you will be rewarded with money instead of the plant 
+upon their completion.
+
+Slow recharging plants: All plants with a slow recharge have had their recharge adjusted to 40 seconds. This is to prevent spamability of certain plants.
+
+Chilling attacking plants: Their chill now lasts for only slightly longer than their firing rates to prevent them from affecting zombies even after they die. Now the plants will need to be kept alive to reapply their chill, 
+encouraging players to take better care of their plants. This also applies to attacking plants that apply other types of status effects like Sap-fling, Goo Peashooter and Dark Matter Dragonfruit.
+
+Families: Certain plants have had their families changed for better plant distribution and certain family placements being questionable.
+
+Mints: Certain mints now boost certain plants outside of their families. Certain plants have aspects that fit in multiple families.
+==========
+Bloomerang: ▲ Zombies pierced: 3 → 4
+            Gives it a bit more usage.
+
+Grave Buster: ▲ Health: 300 → 9999
+              ▲ Destroys surfboards, tents, backpacks, arcade cabinets and weapon stands.
+              Despite being an instant-use plant, Grave Buster can still be eaten or destroyed by zombies. While there isn't any way to make it invincible, its health has been increased to prevent it from dying. Grave Buster can 
+			  also destroy certain other grid items so it has some usage outside of Ancient Egypt and Dark Ages.
+
+Bonk Choy: ▲ Damage: 15 → 20
+           Outclassed by many other plants. Its damage output has been increased to make it a more viable option.
+
+Grapeshot: ▲ Sun Cost: 150 → 75
+           ▲ Recharge: 40 → 15
+           ▼ No longer explodes.
+           No longer a better Cherry Bomb and is more unique. Since the explosion was removed, the 40 second recharge is no longer necessary and has been reduced significantly.
+
+Sling Pea: ▼ Peas no longer deal splash damage.
+           The plant was already fixed with its adaptive targeting, it didn't need the splash damage.
+
+Dandelion: ▲ Recharge: 15 → 10
+           The recharge makes the plant more difficult to use than it should.
+
+Pea Vine: ▼ Sun Cost: 125 → 150
+          ▼ Recharge: 5 → 10
+          A bit too effective for how little it cost. It was highly spamable with its low cost and recharge. The changes should slow it down a bit.
+
+Kernel-pult: ▼ Sun Cost: 100 → 125
+             ▼ Butter damage: 60 → 40
+			 ▼ Butter chance: 30% → 25%
+             This plant is too effective for how little it costs, especially with the damage buff to the butter. It outclasses Peashooter and Cabbage-pult in most cases. Its sun cost has been increased slightly and the buffs 
+			 have been undone.
+
+Snapdragon: ▲ Warms nearby plants.
+            ▼ Sun Cost: 150 → 200
+            This plant outclasses Bonk Choy. While its damage output is lower than Bonk Choy's, it can easily outdamage it if you stack Snapdragons in a column. Its sun cost has been increased to make it harder to perform this 
+			strategy.
+
+Threepeater: ▲ When planted in lanes 1 and 5, shoots two peas in its lane.
+             Not a bad plant, but it did have this glaring oversight that left lanes 1 and 5 weakly defended compared to the middle lanes.
+
+Garlic: ▲ Health: 900 → 1000
+        ▼ Recharge: 5 → 15
+        A bit overtuned. Wall plants shouldn't have a fast recharge and the player usually only has 2-3 Garlic on the lawn anyway.
+
+Pea-nut: ▼ Health: 6000 → 5000
+         ▼ Firing rate: 0.8 → 1.5
+		 ▼ Injured firing rate: 1.5 → 3
+         Very overtuned. Planned to do a full revert, but decided to give it 1000 extra health due to its weakened range. This extra health should make it harder to reduce its firing rate and better justify its cost.
+
+Marigold: ▼ No longer transforms.
+          Overcomplicated what should be a simple plant.
+
+Iceweed: ▼ Sun Cost 150 → 200
+         ▼ Recharge: 5 → 10
+         Too strong for how little it costs. It does the same damage of Spikeweed, but with its chilling ability, it might as well be a Spikerock that can't survive insta-kills. Its new price and recharge should be more 
+		 representative of its strength.
+
+Buttercup: ▼ Recharge: 10 → 20
+           ▼ Health: 900 → 300
+           A bit too effective for a really cheap plant.
+
+Pea Pod: ▲ Gains 300 health for every head.
+         Losing a Pea Pod after spending so much sun to get it to full power is too punishing. This change makes it harder to lose all of your progress and gives it a niche over competitors like Gatling Pea.
+
+Lightning Reed: ▼ Sun Cost: 125 → 150
+                ▼ Chain damage: 10 → 5
+                Its low damage isn't enough to offset its fast firing speed and multi-lane targetting. Its chain damage has been halved so it is less reliable at dealing with groups of zombies and its sun cost has been increased 
+				to make it harder to get groups of them on the lawn.
+
+Melon-pult: ▼ Splash Damage (Plant Food): 250 → 20
+            Melon-pult's Plant Food effect is supposed to be strong, but unreliable. With the buff to its splash damage, that unreliability no longer exists. It has been reverted back to its vanilla splash damage to restore its
+			unreliability.
+
+Torchwood: ▲ Flaming peas deal splash damage in a single tile area.
+           ▼ Health: 2000 → 300
+           ▼ Removed melee damage and ability to set its lane on fire upon death.
+           This plant was buffed the wrong way. Instead of giving it back its splash damage, it was turned into a weird Wall/Melee/Instant Kill hybrid. The plant hardly has its own identity anymore. All of its buffs from
+		   vanilla PvZ2 have been removed and it makes flaming peas deal splash damage in a 1x1 area like in PvZ1.
+
+Tall-nut: ▲ Can no longer be grabbed by parrots.
+          Gives it some extra utility. It should be too heavy to be carried anyways.
+
+Winter Melon: ▼ Recharge: 5 → 10
+              ▼ Splash Damage (Plant food): 250 → 20
+              Getting Winter Melons on the lawn shouldn't be as easy with Gold Bloom nerfed, but it should be slowed down a little. A slower recharge should bring it closer to side-grade territory rather than upgrade.
+
+Cactus: ▼ Sun Cost: 175 → 275
+        Too cheap for what is esentially a Bloomerang combined with a Spikeweed. Its new sun cost better reflects its power.
+
+Cran Jelly: ▼ Recharge 10 → 20
+            ▼ Puddle no longer damages zombies.
+			A bit overtuned. Its recharge is especially too short for how effective it it.
+			  
+Electric Peashooter: ▼ Sun Cost: 200 → 325
+                     ▼ Electric damage: 20 → 10
+					 Too strong for how little it costs. It outclasses Threepeater in every way. Its new cost and recharge better reflects its strength.
+
+Electric Currant: ▲ Sun Cost: 150 → 75
+                  The problem with this plant is that you need two of them in order for the plant to function. You will always be spending twice as much sun on it for not enough reward.
+
+Blover: ▼ Sun Cost: 50 → 100
+        ▼ Recharge: 5 → 20
+        While its fast recharge and low sun cost makes it too powerful, it is understandable why it is was designed this way. The frequency at which players have to deal with flying zombies means that it needs to be available at 
+        a moment's notice. It is now less exploitable while still being fairly available.
+
+Citron: ▲ Splash damage: 20 → 200 
+        The problem with this plant is that the projectile was often wasted on weak zombies or zombies that were about to die anyway. It now deals splash damage in a single tile area so it can hit multiple zombies and feel like
+		less of a waste.
+
+E.M. Peach: ▼ Recharge: 25 → 30
+            A bit too effective. One of the two plants that trivialize Far Future. It should be a bit harder to spam.
+
+Magnifying Grass: ▲ Damage: 550 → 570
+                  Now able to one-shot Coneheads and the player doesn't need to waste a shot on a zombie that is nearly dead.
+
+Power Lily: ▲ Sun Cost: 175 → 125
+            ▲ Recharge: 60 → 40
+			▲ Can be planted on water.
+            While plant food is very powerful, the plant's recharge and sun cost is a bit extreme. The changes it received should allow players to get more usage out of it.
+
+Apple Mortar: ▼ Sun Cost: 250 → 325
+              ▼ Removed stun.
+              This plant does a little too much. Its main draws should be its unusually fast firing rate for a lobber and multi-lane targeting. It also outdamaged Threepeater at a lower cost.
+
+Holly Barrier: ▼ Sun Cost: 150 → 200
+               ▼ Recharge: 15 → 20
+			   ▼ Splash Area: 3x3 → 3x1 (Plant Food projectiles retain the original splash area)
+               A bit overtuned. While it has received nerfs, it is still too strong. The changes should better reflect its strength.
+
+Gumnut: ▼ Zombie health multiplier: 3 → 1
+        It's almost balanced. It just needed this one change.
+			   
+Solar Tomato: ▼ Recharge: 25 → 40
+              Way too strong. You could just drop it into a crowd of zombies and get 500 sun. It shouldn't be as exploitable now.
+
+Sun-shroom: ▼ Stage 2 growth time: 18 → 48
+            ▼ Stage 3 growth time: 54 → 72
+            It grows into its 2nd stage too quickly. The player only has to experience its downside for 18 seconds before it becomes a better sunflower. The growth time for its 2nd stage has been increased so the player has to 
+			experience its downsides for longer before it grows.
+			
+Fume-shroom: ▲ Firing rate: 2.6 → 2.25
+             ▼ Damage: 40 → 30
+			 Not necessarily for balance, but to make it more distinct from Laser Bean.
+
+Sun Bean: ▲ Sun Cost: 50 → 25
+          Not a bad plant, but a basic or Imp that eats it will produce 50 sun at max, the same amount of sun spent on planting it. Its sun cost has been reduced to ensure that its sun output will always outnumber its cost.
+
+Hypno-shroom: ▲ Sun Cost 125 → 50
+              ▲ Hypnotized zombie damage resistance: 5% → 25%
+              Its price is more reasonable now. The damage resistance it grants zombies was so low that it never mattered. Hypnotized basics could still die in two bites. Now hypnotized zombies can survive a few more bites.
+
+Scaredy-shroom: ▼ Sun Cost: 25 → 75
+                ▼ Removed knockback chance
+                Very overtuned to the point it's just a better Peashooter. You can plant several of them in the back and their spores' knockback ensures zombies can never get close to them. Its sun cost has been increased and the
+                knockback has been removed. Now it is what it should have been, a cheaper Peashooter with an extra weakness.
+
+Witch Hazel: ▲ Immune to Wizard Zombies.
+             ▼ Recharge: 30 → 40
+			 Recharge reduced to bring it more in line with similar plants like Electric Blueberry and Caulipower.
+
+Goo Peashooter: ▼ Sun Cost: 150 → 350
+                ▼ Recharge: 5 → 10
+				▼ Direct damage: 30 → 20
+                ▼ No longer slows zombies.
+				Still too strong at 150 sun. Its increased sun cost and recharge makes it harder to spam them, which was the main strategy when using them.
+
+Ice-Shroom: ▼ Sun Cost: 300 → 400
+            ▼ Recharge: 30 → 40
+            ▼ Health: 700 → 300
+			▼ No longer damages zombies.
+			▼ No longer boosts Winter-mint plants when plant fooded.
+			Even with a high sun cost, it is still overpowered. Its sun cost has been increased to make it even harder to get them on the lawn. Its ability to boosts Winter-mint plants has been removed as the plant already does 
+			too much and nothing about its design suggests it is meant to act as a support plant.
+
+Doom-shroom: ▼ Recharge: 35 → 75
+             No matter how much it costs, players will always choose it over other instant-use explosives because of its range. With plants like Cherry Bomb and Grapeshot, you have to think about where to plant them. This does not
+             apply to Doom-shroom due to its massive range. You can place it anywhere without thought and it kills everything. Its recharge has been increased to reduce its usage and give a reason to use other options.		 
+
+Lily Pad: ▲ Sun Cost: 25 → 0
+          One of the reasons Big Wave Beach is so difficult is because the player always has less sun from needing to plant Lily Pads. A plant this essential should not cost anything. It is now free to make the world overall 
+          easier to play.
+
+Chomper: ▲ Chew time: 17 → 12 seconds
+         ▼ Zombie capacity: 2 → 1
+         The buff it received in vanilla overcomplicated it. It now eats only one zombie again, but has a significantly faster chew time to compensate.
+			  
+Guacodile: ▲ Pit damage: 20 → 25
+           ▼ Firing rate: 1.5 → 2.25
+           Changed to further emphasize its role as a melee plant. It should not be used as a shooter often. Its pit damage was increased to make it more distinct from Peashooter.
+				 
+Missile Toe: ▼ Recharge: 5 → 10
+             ▼ Direct Damage: 1200 → 800
+			 ▼ Splash Damage: 1200 → 400
+             Direct upgrade, now a side-grade. It also has different damage values for direct and splash damage to make it more distinct from Banana Launcher.
+
+Seashooter: ▼ Sun Cost: 275 → 350
+            This plant is a better Threepeater, even when landbound. The sun cost increase makes it so that players would be more reluctant to use it over Threepeater outside of Big Wave Beach.
+
+Parsnip: ▼ Sun Cost: 150 → 175
+         ▼ Recharge: 5 → 10
+         ▼ Attack rate: 0.8 → 1
+         A bit overtuned. In spite of its power, it doesn't need more changes as spending 150 sun to replace it balances it out.
+
+Lotorpedo: ▼ Removed stun on waterbound zombies.
+		   The stun was a bit much.
+
+Stickybomb Rice: ▼ Sun Cost: 225 → 325
+				 Due to its multi-lane targetting, it is easy to spam them for massive damage. Its sun cost has been increased to make it harder to spam.
+
+Ice Bloom: ▼ Recharge: 30 → 75
+           ▼ Damage: 200 → 0
+           Way too strong for how effective it is. It now specializes in stalling only.
+
+Hot Potato: ▲ Now kills Octopi.
+            Gives it usage outside of Frostbite Caves.		   
+
+Pepper-pult: ▲ Recharge: 20 → 5
+             ▲ Splash damage: 10 → 25
+             Attacking plants should never have a recharge slower than 10 seconds.
+
+Chard Guard: ▼ Sun Cost 75 → 100
+             ▼ Recharge: 15 → 20
+			 ▼ Health: 1500 → 1000
+             The main problem with this plant was that it was too easy to plant another one over it to regain its leaves. Its higher sun cost and recharge should reduce the effectiveness of this strategy,
+
+Jalapeno: ▲ Sun Cost: 125 → 100 
+          A slight sun cost decrease to allow it to compete with Cherry Bomb.
+
+Stunion: ▼ Sun Duration: 12 → 7.5 seconds
+         A little too effective, better than Iceberg Lettuce in most situations, but it should remain as a cheap option. Its stun duration has been reduced a little.
+
+Pyre Vine: ▲ Sun Cost: 125 → 100
+           ▲ Recharge: 10 → 5
+           Ineffective compared to other vine plants. Its fast recharge and lower sun cost should give more reasons to use it.
+
+Starfruit: ▼ Projectile Speed: 1 → 0.6
+           A little too effective for how little it costs, but it should stay as a cheap option. Its projectile travels so fast that they can usually kill a basic before it leaves its range. This change ensures that basics have 
+		   a chance at survival before leaving its range.
+
+Fire Peashooter: ▼ Recharge: 5 → 10
+                 No longer a better Repeater.
+
+Jack O' Lantern: ▲ Recharge: 20 → 5
+                 Its sluggish recharge made the plant unnecessarily difficult to use.
+
+Gatling Pea: ▼ Recharge: 5 → 10
+             It outclasses Pea Pod due to its lower sun cost and faster firing rate. The reduced recharge should allow Pea Pod to have an edge over it.
+
+Wasabi Whip: ▼ Attack rate: 0.6 → 0.7
+             Reverted to its vanilla rate.
+
+Inferno: ▲ Recharge: 25 → 10
+         ▼ Sun Cost: 200 → 250
+		 ▼ Firing rate: 5.95 → 10
+		 ▼ Sweeping damage: 40 → 20
+		 ▼ Number of hits: 12 → 6
+		 The main problem with this plant is its immense damage and stalling capabilities. It could stall a zombie forever and its slow firing rate wasn't enough to compensate. To stifle its stalling abilities, the amount of hits
+		 has been halved as the hits directly correlate with the tornado's duration and its firing rate has been increased so it can't stall as often.
+
+Endurian/Hurrikale: ▼ Recharge: 15 → 20 
+                    A bit overtuned.
+
+Umbrella Leaf: ▼ Recharge: 5 → 15
+               A bit overtuned. Wall plants shouldn't have a recharge faster than 15 seconds. You don't really need more than two on the lawn anyway.
+
+Stallia: ▼ Sun Cost 0 → 75
+         ▼ Stall time 12 → 10 seconds.
+         It is ridiculous a plant that can stall in a 3x3 area costs nothing.
+
+Escape Root: ▼ Recharge: 20 → 30
+             A bit too good, especially for a plant with a chance of transforming into a Cherry Bomb.
+
+Aloe: ▲ Recharge: 20 → 15
+      ▼ Health: 450 → 300
+	  Slight rebalance for consistency.
+
+Shine Vine: ▼ Sun Cost: 75 → 125
+            ▼ Recharge: 5 → 10
+            ▼ No longer damages, stuns or causes zombies to produce sun.
+            A bit too effective for how little it costs. It becomes highly spamable with its low cost and recharge. The changes should slow it down a bit.
+
+Phat Beet: ▲ Damage: 15 → 20
+           ▲ Critical Damage: 45 → 60
+           Higher damage output to make it a more viable option.
+
+Celery Stalker: ▲ Retraction delay: 3 → 1
+                ▼ Sun Cost: 50 → 75
+                ▼ Recharge: 15 → 20
+				▼ Health: 1200 → 1000
+				A bit too effective for how little it costs and how fast it recharges. Its health has been reduced to emphasize its role as melee plant, but it takes less time to hide to prevent it from taking unnecessary damage.
+
+Sweet Potato: ▲ Sun Cost: 150 → 100
+              Too expensive for what is essentially a Wall-nut with one extra effect.
+
+Shrinking Violet: ▼ Recharge: 15 → 40
+                  Way too effective for how quickly it recharges.
+
+Intensive Carrot: ▲ Sun Cost: 100 → 0
+                  ▲ Plant health restoration: 50% → 100%
+                  The problem with this plant is that you often had to pay to revive a plant that cost less than the carrot and it comes back in a worst condition than it started.
+
+Electric Blueberry/Caulipower: ▲ Normal zombie targeting %: 55 → 50
+                               ▲ Gargantuar zombie targeting % (Electric Blueberry): 5 → 10 
+                               ▲ Special zombie targetting % (Caulipower): 40 → 45
+                               ▼ Caulipower Sun Cost: 250 → 300
+                               Despite being 100 sun cheaper, Electric Blueberry is completely outclassed by Caulipower. Electric Blueberry is an instant-kill plant that takes too long to instant-kill a zombie. Caulipower can
+							   actually instant-kill a zombie, instantly. And hypnotize the zombies on top of that. Caulipower's sun cost will be significantly higher now. They are also too similar to each other. They now have 
+							   different targeting % to make them more unique and their targeting % for normal zombies has been lowered to make it easier for them to attack the zombies you actually want. Electric Blueberry 
+							   specializes in fighting Gargantuars and Caulipower specializes in fighting special zombies.
+							   
+Strawburst: ▼ Plant Food Damage: 400 → 600
+            Not only is the damage of its Plant Food effect poor, but it punishes you for being good at the game. If you effectively hold off the zombies, they will never be able to enter the range of its Plant Food effect. Only
+			one of these changes is possible to rectify. It should be able to kill Coneheads now.
+
+Primal Peashooter: ▼ Sun Cost: 175 → 225
+                   ▼ Damage: 60 → 50
+				   ▼ Knockback chance: 50% → 25%
+                   The closest of the Primal plants to a side-grade, but still outclasses many of its pea brethren. Its damage output is too high and the knockback chance occurs too often. Both have been reduced.
+
+Primal Wall-nut: ▼ Recharge: 5 → 30
+                 It's a better Wall-nut. A slower recharge should offset its strength.
+
+Perfume-shroom: ▲ Sun Cost: 150 → 100
+                ▲ Recharge: 30 → 10
+                This plant's recharge is too slow for how often the player needs to deal with dinosaurs. Now, the player shouldn't be as helpless when dealing with dinosaurs.
+
+Homing Thistle: ▲ Pops balloons
+                ▼ Firing rate: 1.5 → 2
+                The increased firing rate is unnecessary when its main problems were its recharge and accuracy. Now that those are fixed, its increased firing rate is just overkill.
+
+Sap-fling: ▲ Sun Cost: 75 → 150
+           ▲ Puddle duration: 15 → 5 seconds
+           A little too effective for how little it costs. Its sun cost has been reverted back to its original 150 to balance it in comparison to other stallers like Snow Pea. The puddle lasts too long, meaning that even after 
+		   the plant is eaten, it still has an impact on the lawn.
+
+Primal Potato Mine: ▲ Recharge: 25 → 20
+                    ▼ Damage: 2700 → 200
+                    ▼ Arming time: 6 → 7 seconds
+                    A plant infamous for being broken and outclassing many other plants. Its damage output has been reduced significantly. It is now a proper sidegrade to Potato Mine, in the sense that it covers a wider range in 
+                    exchange for being unable to kill anything stronger than a basic.
+
+Primal Sunflower: ▼ Sun Production: 25 → 30
+                  The extra sun cost isn't enough to make players consider other options over it.
+
+Snap Pea: ▼ Sun Cost: 200 → 300
+          ▼ Pea damage: 30 → 20
+          ▼ Head damage: 400 → 200
+		  It outclasses Chomper and Toadstool. One of the weaknesses of those two plants is that they have to be planted at the front lines so the zombies can get within their range. This also puts them at risk of being eaten
+		  before they can digest their victim. Snap Pea can eat a zombie from any range, so he doesn't have this same weakness. Its sun cost has been increased significantly to account for this.
+							
+Cold Snapdragon: ▼ Sun Cost: 225 → 275
+                 ▼ Recharge: 5 → 10
+                 Changed in conjunction with Snapdragon.
+
+Moonflower: ▼ Max sun produced: 100 → 75
+            Poor design to have a plant produce as much sun as Twin Sunflower for a fraction of the price.
+
+Murkadamia Nut: ▲ Jelly Health: 1500 → 4000
+                ▼ Sun Cost: 100 → 150
+                ▼ Recharge: 10 → 20
+                ▼ Health: 2500 → 1000
+				▼ Jelly cooldown time: 5 → 10
+				Its base health has been reduced since it looks too small to have that much health. The jelly health has been increased signifcantly to encourage players to power it up and it is ridiculous that it needs to be
+				powered up just to have the same health as the much cheaper Wall-nut. The recharge increase prevents it from being used over Endurian, its closest competitor.
+
+Shadow-shroom: ▼ Recharge: 10 → 15
+               Done to prevent it from outclassing Potato Mine.
+
+Nightshade: ▲ No longer loses leaves while powered
+            ▲ Damage (powered): 100 → 150
+			▼ Damage (normal): 200 → 100
+            ▼ Sun Cost: 75 → 150
+			This plant was frustrating to use. Powering it up is supposed to make it stronger, but its damage is halved for some reason. The leaf recharge is also too slow that it often prevents it from defending itself . Now, 
+			the player is properly rewarded for powering it up with more damage and having leaves at all times.
+
+Dusk Lobber: ▼ Sun Cost: 150 → 175
+             A plant with lower damage than the average lobber carried by its ability to target multiple lanes. Its sun cost has been increased slightly to make it harder to put out on the lawn.
+
+Grimrose: ▲ Sun Cost: 75 → 50
+          It's a worse version of Squash. Even when powered, it will kill less zombies than Squash on average.
+
+Angel Starfruit: ▼ Projectile Speed: 1 → 0.6
+                 Changed in conjunction with Starfruit.
+
+Shadow Peashooter: ▼ Sun Cost: 225 → 275
+                   ▼ Recharge: 5 → 10
+				   ▼ Laser damage: 70 → 60
+				   ▼ Firing rate: 2.5 → 3
+				   ▼ Lasers no longer slow zombies.
+				   Way too strong for how little it costs and it did too much, too.
+
+Noctarine: ▲ Sun Cost: 150 → 75
+		   ▲ Can be planted over other plants.
+		   ▼ Gas no longer damages zombies.
+		   Changed into a purely support plant to make it more interesting. It can be placed over other plants to better serve this support function. It would be difficult to find somewhere to plant it without it. It serves as a
+		   way to power shadow plants without being forced to bring Moonflower, requiring less set-up and investment at the cost of only boosting plants in a certain area. Its recharge time is equal to the gas duration so players 
+		   should continuously use it to keep the boost going, but needing to choose between which plants to boost as its range is limited. Its sun cost is reduced to a level where it reasonable, but not that low where it can be 
+		   easily spammed.
+
+Gold Bloom: ▼ Sun produced 375 → 200
+            Makes the game too easy.
+
+Snowdrop: ▼ Sun Cost: 200 → 250
+          ▼ Firing rate: 2.25 → 3
+		  ▼ Icicle chance: 30% → 25%
+		  ▼ Icicles only freeze zombies.
+          A bit too effective. Its firing rate is now the same as other lobbers to slow it down and its sun cost better matches its strength.
+
+Heavenly Peach: ▲ Heal amount: 150 → 250
+                ▲ Plant Food heal amount: 450 → 750
+                This plant heals so little health that even stacking three together achieves nothing. This may seem like a minor increase, but stacking three together means a plant gets 750 health back. A zombie deals 1000 damage
+				within 10 seconds and the peaches will heal more than half of that amount back.
+
+Solar Sage: ▼ Enlightened zombies no longer infect other zombies.
+            Does a bit too much.
+
+Cantaloupe-Pult: ▼ Sun Cost: 500 → 650
+                 Still too strong in spite of its high sun cost. Unsure on whether to keep the increased sun cost since it is meant to counter a specific zombie and it might make that zombie too difficult to fight. 
+
+Explode-O-Nut: ▼ Sun Cost: 50 → 100
+               ▼ Recharge: 10 → 40
+			   ▼ Damage: 1800 → 900
+			   ▼ Plant food armor health: 4000 → 3000
+               Another broken plant that outclasses other plants. Its damage output and recharge has been reduced significantly. It shouldn't be able to kill anything stronger than a conehead.
+
+Atomic Bombegranate: ▼ Recharge: 20 → 60
+                     ▼ Only spawns one Seedling after 3rd stage explosion.
+					 ▼ 2nd stage Seedling no longer spawns other Seedlings after exploding.
+                     A bit overtuned.
+					 
+Skyshooter: ▼ Only useable in Aerial Fortress and Big Wave Beach.
+            This plant is too strong due to its low sun cost, fast firing rate and knockback. Removing the knockback would be the best solution, but removing it would make completing Aerial Fortress impossible. So it can no 
+			longer can be used outside of Aerial Fortress and Big Wave Beach.
+			
+Ampthurium: ▲ Normal damage: 20 → 25
+            A slight change to differentiate it from Peashooter.
+
+Floawer Pot: ▲ Plant fooded Floawer Pots can be moved, regardless of whether they are carrying plants or not.
+             Fixed the plant's biggest problem which made their amazing plant food ability completely useless.
+			
+Mega Gatling Pea: ▼ Recharge: 5 → 40
+                  Contrary to what the in-game tips say, Mega Gatling Pea is in fact better than Gatling Pea. The plant food activation chance alone makes it outclass Gatling Pea. Giving it a slow recharge should properly 
+                  compensate for its devastating power.
+			
+Chilly Pepper: ▼ Recharge: 25 → 40
+               ▼ Damage: 1200 → 900
+			   A disappointingly balanced plant. It should be a Jalapeno that does half the damage, but freezes zombies. Unfortunately, it does much more than that and has less recharge than Jalapeno. It has been balanced to no 
+			   longer powercreep Jalapeno and to be closer to the ideal way it should be balanced.
+
+Shooting Starfruit: ▼ Damage: 30 → 20
+                    The increased damage on top of the 1 firing rate was overkill on an already powerful plant.
+
+Dark Matter Dragonfruit: ▼ Sun Cost: 350 → 600
+						 One of the strongest plants in the game. It invalidated Winter Melon just by existing. The main problem is its sun cost being too low for a plant this strong and essentially outclassing Melon-pult and 
+						 Winter Melon.
+
+Appease-mint: ▲ Boosts Snow Pea, Sling Pea, Pea-nut, Electric Peashooter, Goo Peashooter, Snap Pea and Shadow Peashooter, regardless of their families.
+              Now boosts ALL Peashooters as it should.
+
+Reinforce-mint: ▲ Now boosts Vamporcini and Murkadamia Nut regardless their families.
+                Both are wall plants so they should get boosted by the wall mint.
+			  
+Bombard-mint: ▲ Boosts Dandelion, Moon Bean and Stickybomb Rice, regardless of their families.
+              Two of them use bombs and one transforms into a bomb.
+
+Arma-mint: ▲ Boosts Winter Melon, Missile Toe, Pepper-pult, Turkey-pult, Spore-shroom, Strawburst, Sap-fling, Blooming Heart and Snowdrop regardless of their families.
+           Now boosts ALL Lobbers as it should.
+
+Spear-mint: ▲ Boosts Iceweed, Holly Barrier, Endurian, Murkadamia Nut and Lychee regardless of their families.
+            Now boosts ALL spiky plants as it should.
+
+Winter-mint: ▲ Boosts Hurrikale, regardless of it being in the Contain-mint Family.
+             Hurrikale chills zombies so it should be boosted by the ice mint.
+
+Enforce-mint: ▲ Boosts Pyre Vine, Wasabi Whip, Gloom Vine and Gloom-shroom regardless of their families.
+              They're melee plants, they should get boosted by the melee mint.
+
+Pepper-mint: ▲ Boosts Torchwood, regardless of it being in the Appease-mint Family.
+             Though Torchwood is in the Appease-mint Family for synergistic reasons, it is still a fire plant at the end of the day and should be boosted by the fire mint.
+
+Ail-mint: ▲ Boosts Shadow-shroom, regardless of it being in the Conceal-mint Family.
+          Shadow-shroom poisons zombies, giving them an ailment.
+			 
+Fila-mint: ▲ Boosts Infi-nut, regardless of it being in the Reinforce-mint Family.
+           Since Infi-nut can be boosted by Electric Currant, it sort of belongs with the rest of the Fila-mint Family.
+		   
+Fila-mint: ▲ Boosts Dark Matter Dragonfruit, regardless of it being in the Conceal-mint Family.
+           It is a slowing plant, so it should get boosted by the slow mint.
+			 
+==Future Additions==
+Balance changes I want to make, but aren't possible right now due to certain things being hard-coded.
+
+Magnet-shroom: Removes Excavator Zombie's shovel, MC Zom-B's microphone and Boombox Zombie's boombox.
+
+Bowling Bulb: Blue and yellow bulbs recharge regardless of whether zombies are in its lane or not.
+
+Escape Root: Replace Grapeshot with Doom-shroom as it is no longer an explosive plant
+
+Primal Peashooter: Remove stun.
+
+Shadow Peashooter: Remove ability to drag zombies. Setting "ZombiesToDrag" to "0" causes it to be unable to attack.
+
+Move Cactus to Modern Day Level 31 when Tumbleweed is released.
+
+Move certain Epic Quests to different worlds.
+
+==What's New?==
+Ice-shroom no longer boosts Winter-mint plants when plant fooded. It already does too much and nothing about its design suggests it is meant to act like a support plant.
+
+Strawburst's Plant Food Damage has been increased from 400 to 600.
+
+Boombox Zombie, Imp Fighter Pilot, Double Cabin Zombie, Arbiter-X, Zomboni and Catapult Zombie can be disabled by E.M. Peach.
+
+Goo Peashooter Level 3 has been mostly reverted back to the way it was. E.M. Peach is now part of the plant lineup as it less disruptive to how the level was originally designed and this level demonstrates its ability to disabled
+aircraft.
