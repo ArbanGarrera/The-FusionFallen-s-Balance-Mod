@@ -111,9 +111,6 @@ Pepper-mint Level 2: Added Sun-shroom to the plant selection.
 Pepper-mint Level 3: Added Perfume-shroom and Thyme Warp to the plant selection.
                      With Inferno's reduced stalling capabilities, the player needs more options to stall the zombies. It's also ridiculous to have dinosaurs in a level, but no Perfume-shroom to deal with them.
 					 
-Pepper-mint Level 4: Removed objective.
-                     This level is impossible due to Wasabi Whip's reduced attack rate. The objective was removed to compensate.
-					 
 Pepper-mint Level 8: Replaced Sun-shroom with Sunflower and removed the Punk Jam on Wave 8.
                      Using Sun-shrooms in a daytime level makes it harder than necessary. The Punk Jam was removed as the skunks immediately shut down your plants and made the level impossible.
 
@@ -176,6 +173,9 @@ Atomic Bombegranate Level 4: Turned off Punk Jam on Wave 1.
 							 Replaced Newspaper Veterans with normal Newspaper Zombies. 
 							 Replaced Three-section Staff Abbots with Hammer Zombies.
 							 Poorly-designed level that forces several strong zombies onto the player before they have the means to deal with them.
+
+Mega Gatling Pea Level 4: Removed MC Zom-Bs.
+                          With Shadow Peashooter's increased sun cost, it's too difficult to replace them when the MC Zom-Bs arrive to destroy them.
 
 Endless Zones: Several plants considered essential to their respective worlds have been added to the starting plant lineups of several endless zones.
 							 

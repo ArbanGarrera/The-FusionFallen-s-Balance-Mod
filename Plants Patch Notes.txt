@@ -580,13 +580,3 @@ Shadow Peashooter: Remove ability to drag zombies. Setting "ZombiesToDrag" to "0
 Move Cactus to Modern Day Level 31 when Tumbleweed is released.
 
 Move certain Epic Quests to different worlds.
-
-==What's New?==
-Ice-shroom no longer boosts Winter-mint plants when plant fooded. It already does too much and nothing about its design suggests it is meant to act like a support plant.
-
-Strawburst's Plant Food Damage has been increased from 400 to 600.
-
-Boombox Zombie, Imp Fighter Pilot, Double Cabin Zombie, Arbiter-X, Zomboni and Catapult Zombie can be disabled by E.M. Peach.
-
-Goo Peashooter Level 3 has been mostly reverted back to the way it was. E.M. Peach is now part of the plant lineup as it less disruptive to how the level was originally designed and this level demonstrates its ability to disabled
-aircraft.
