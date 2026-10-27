@@ -1,4 +1,2 @@
 ==What's New?==
-Mega Gatling Pea Level 4: Removed MC Zom-Bs.
-
-Fixed bugs that prevented Magnet-shroom and E.M. Peach from countering certain zombies.
+Fixed bug that prevented Mega Gatling Pea from fusing.
