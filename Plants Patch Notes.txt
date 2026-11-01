@@ -459,7 +459,8 @@ Grimrose: ▲ Sun Cost: 75 → 50
 Angel Starfruit: ▼ Projectile Speed: 1 → 0.6
                  Changed in conjunction with Starfruit.
 
-Shadow Peashooter: ▼ Sun Cost: 225 → 275
+Shadow Peashooter: No longer requires
+                   ▼ Sun Cost: 225 → 275
                    ▼ Recharge: 5 → 10
 				   ▼ Laser damage: 70 → 60
 				   ▼ Firing rate: 2.5 → 3

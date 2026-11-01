@@ -1,2 +1,2 @@
 ==What's New?==
-Fixed bug that prevented Mega Gatling Pea from fusing.
+Mega Gatling Electric Peashooter and Mega Gatling Shadow Peashooter have received changes to their electric and laser damage in accordance with the changes to their normal versions.
