@@ -1,2 +1,8 @@
 ==What's New?==
-Mega Gatling Electric Peashooter and Mega Gatling Shadow Peashooter have received changes to their electric and laser damage in accordance with the changes to their normal versions.
+The damage of Red Stinger's individual projectiles have been reduced from 30 to 15. I assumed its damage was split between its two projectiles and was unaware it did 60 damage total. A 60 damage shooter costing 150 sun is 
+unacceptable and it makes Repeater useless. To compensate, its firing rate has been increased from 2 to 1.5, its Stage 2 health has been increased from 900 to 1000 and its Stage 3 health has been increased from 1500 to 2000 to 
+encourage using it defensively more often. Players tend to ignore its more defensive forms in favor of using it offensively.
+
+Aqua Vine's damage has been reduced from 30 to 25 to prevent it from power creeping Red Stinger and Pea Vine.
+
+Aqua Vine has been made temporarily available as a gemium plant until its Epic Quest is complete. It becomes available in the store after completing Big Wave Beach Level 31.

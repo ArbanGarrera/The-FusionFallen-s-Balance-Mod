@@ -334,8 +334,18 @@ Inferno: ▲ Recharge: 25 → 10
 		 The main problem with this plant is its immense damage and stalling capabilities. It could stall a zombie forever and its slow firing rate wasn't enough to compensate. To stifle its stalling abilities, the amount of hits
 		 has been halved as the hits directly correlate with the tornado's duration and its firing rate has been increased so it can't stall as often.
 
-Endurian/Hurrikale: ▼ Recharge: 15 → 20 
-                    A bit overtuned.
+Red Stinger: ▲ Firing Rate: 2 → 1.5
+             ▲ Stage 2 Health: 900 → 1000
+             ▲ Stage 3 Health: 1500 → 2000
+             ▼ Stage 1 Damage: 60 → 30
+			 ▼ Stage 2 Damage: 20 → 15
+			 Its almanac entry is very deceptive. You assume that its stage 1 damage is 30 with the damage being split between both projectiles it fires. As it turns out, it deal 30 damage per projectile. A very cheap plant with
+			 a high damage output that outclasses Repeater is unacceptable. Now, its damage is actually 30. The health of its 2nd and 3rd stages have been increased to encourage using it as a defensive plant more often. Players 
+			 always use it offensively. Its increased health was so low that it was never worth using it as a wall. The health increase isn't so large as to encourage using it over other walls, but moreso to encourage players to
+			 use it in emergencies.
+
+Endurian: ▼ Recharge: 15 → 20 
+          A bit overtuned.
 
 Umbrella Leaf: ▼ Recharge: 5 → 15
                A bit overtuned. Wall plants shouldn't have a recharge faster than 15 seconds. You don't really need more than two on the lawn anyway.
@@ -369,6 +379,9 @@ Celery Stalker: ▲ Retraction delay: 3 → 1
 Sweet Potato: ▲ Sun Cost: 150 → 100
               Too expensive for what is essentially a Wall-nut with one extra effect.
 
+Hurrikale: ▼ Recharge: 15 → 20 
+           15 seconds is too generous for lanewide chilling and knockback.
+
 Shrinking Violet: ▼ Recharge: 15 → 40
                   Way too effective for how quickly it recharges.
 
@@ -381,7 +394,7 @@ Electric Blueberry/Caulipower: ▲ Normal zombie targeting %: 55 → 50
                                ▲ Special zombie targetting % (Caulipower): 40 → 45
                                ▼ Caulipower Sun Cost: 250 → 300
                                Despite being 100 sun cheaper, Electric Blueberry is completely outclassed by Caulipower. Electric Blueberry is an instant-kill plant that takes too long to instant-kill a zombie. Caulipower can
-							   actually instant-kill a zombie, instantly. And hypnotize the zombies on top of that. Caulipower's sun cost will be significantly higher now. They are also too similar to each other. They now have 
+							   actually instant-kill a zombie, instantly. And hypnotizes zombies on top of that. Caulipower's sun cost will be significantly higher now. They are also too similar to each other. They now have 
 							   different targeting % to make them more unique and their targeting % for normal zombies has been lowered to make it easier for them to attack the zombies you actually want. Electric Blueberry 
 							   specializes in fighting Gargantuars and Caulipower specializes in fighting special zombies.
 							   
@@ -423,11 +436,11 @@ Snap Pea: ▼ Sun Cost: 200 → 300
           ▼ Pea damage: 30 → 20
           ▼ Head damage: 400 → 200
 		  It outclasses Chomper and Toadstool. One of the weaknesses of those two plants is that they have to be planted at the front lines so the zombies can get within their range. This also puts them at risk of being eaten
-		  before they can digest their victim. Snap Pea can eat a zombie from any range, so he doesn't have this same weakness. Its sun cost has been increased significantly to account for this.
+		  before they can digest their victims. Snap Pea can eat a zombie from any range, so it doesn't have this same weakness. Its sun cost has been increased significantly to account for this.
 							
 Cold Snapdragon: ▼ Sun Cost: 225 → 275
                  ▼ Recharge: 5 → 10
-                 Changed in conjunction with Snapdragon.
+                 Changed in conjunction with Snapdragon. The increased recharge brings it into side-grade territory.
 
 Moonflower: ▼ Max sun produced: 100 → 75
             Poor design to have a plant produce as much sun as Twin Sunflower for a fraction of the price.
@@ -447,8 +460,8 @@ Nightshade: ▲ No longer loses leaves while powered
             ▲ Damage (powered): 100 → 150
 			▼ Damage (normal): 200 → 100
             ▼ Sun Cost: 75 → 150
-			This plant was frustrating to use. Powering it up is supposed to make it stronger, but its damage is halved for some reason. The leaf recharge is also too slow that it often prevents it from defending itself . Now, 
-			the player is properly rewarded for powering it up with more damage and having leaves at all times.
+			This plant was frustrating to use. Powering it up is supposed to make it stronger, but its damage is halved for some reason. The leaf recharge is also too slow that it often prevents it from defending itself. Now, the
+			player is properly rewarded for powering it up with more damage and having leaves at all times.
 
 Dusk Lobber: ▼ Sun Cost: 150 → 175
              A plant with lower damage than the average lobber carried by its ability to target multiple lanes. Its sun cost has been increased slightly to make it harder to put out on the lawn.
