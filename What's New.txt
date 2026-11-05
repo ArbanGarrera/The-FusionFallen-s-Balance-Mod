@@ -1,8 +1,10 @@
 ==What's New?==
-The damage of Red Stinger's individual projectiles have been reduced from 30 to 15. I assumed its damage was split between its two projectiles and was unaware it did 60 damage total. A 60 damage shooter costing 150 sun is 
-unacceptable and it makes Repeater useless. To compensate, its firing rate has been increased from 2 to 1.5, its Stage 2 health has been increased from 900 to 1000 and its Stage 3 health has been increased from 1500 to 2000 to 
-encourage using it defensively more often. Players tend to ignore its more defensive forms in favor of using it offensively.
+Bud-uh Boom's sun cost has been increased from 100 to 175, its butter damage has been reduced from 100 to 40 and the number of butter projectiles it flings has been reduced from 8 to 5.
 
-Aqua Vine's damage has been reduced from 30 to 25 to prevent it from power creeping Red Stinger and Pea Vine.
+Contain-mint now boosts Bud'uh Boom.
 
-Aqua Vine has been made temporarily available as a gemium plant until its Epic Quest is complete. It becomes available in the store after completing Big Wave Beach Level 31.
+Ra Zombie's sun sabsorption speed has been doubled to make it an actual threat.
+
+Fixed certain levels missing their card decks due to the level files being outdated.
+
+The Level Patch Notes now has more details on changes to normal and expansion levels. Please check them for more info.

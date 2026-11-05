@@ -1,5 +1,6 @@
 ==Zombie Patch Notes==
-Almanac: The Zombies Alamanac has received numerous changes. It now provides more specific information on zombie speed and health as well as certain attributes the base almanac fails to mention.
+===Almanac===
+The Zombie Alamanac has received numerous changes. It now provides more specific information on zombie speed and health as well as certain attributes the base almanac fails to mention.
 ==========
 
 Basic Zombies: Health 190 → 200
@@ -11,6 +12,9 @@ Imps: ▼ Health: 190 → 150
 Gargantuars: ▲ All Gargantuars with the exception Sloth Gargantuar are immune to Inferno's knockback.
              Even with all of the nerfs, Inferno could still infinitely stall Gargantuars. This should no longer be a problem. The Sloth Gargantuar was made an exception to this rule to emphasize Frostbite Caves' zombies' 
 			 weakness to fire.
+			 
+Ra Zombie: ▲ Doubled sun absorption speed.
+           This zombie was never dangerous. You could always take your sun back before he could absorb it. Now he is an actual threat.
 
 Prospector Zombie: ▲ Health: 200 → 250
                    The problem with this zombie is that its low health and weakness to ice plants often leads to it being dealt with before it can launch itself to the front of the lawn. It has a bit more health to make it a bit
