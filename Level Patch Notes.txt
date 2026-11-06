@@ -351,6 +351,10 @@ Modern Day Level 34 (Jurassic Marsh Zombot): Added Murkadamia Nut and Gloom Vine
 Modern Day Level 44: Added Murkadamia Nut, Gloom Vine, Grimrose and Shadow Peashooter to the plant lineup.
                      Removed Spikeweed, Fume-shroom, Chomper and Stallia from the plant lineup.
 					 
+KongFu Temple Level 7: Replaced Snow Pea with Snowdrop.
+
+KongFu Temple Level 8: Replaced Snow Pea with Snowdrop.
+					 
 Aerial Fortress Level 32: Added Rotobaga and Lantern Cherry to the plant lineup.
                           Removed Moon Bean from the plant lineup.
 
