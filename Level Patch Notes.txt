@@ -354,6 +354,35 @@ Modern Day Level 44: Added Murkadamia Nut, Gloom Vine, Grimrose and Shadow Peash
 KongFu Temple Level 7: Replaced Snow Pea with Snowdrop.
 
 KongFu Temple Level 8: Replaced Snow Pea with Snowdrop.
+
+KongFu Temple Level 16: Replaced Snow Pea with Snowdrop.
+
+KongFu Temple Level 22: Added Explode-O-Nut to the plant lineup.
+                        As it is obtained here, this level now serves as its showcase.
+						
+KongFu Temple Level 24: Replaced Snow Pea with Snowdrop.
+
+KongFu Temple Level 28: Removed Rocket Imps.
+                        Completely unfair, especially in a level with a flower line.
+						
+KongFu Temple Level 30: Removed sun spending limit.
+                        Never a fair objective.
+
+KongFu Temple Level 34: Removed Rocket Imps.
+						
+KongFu Temple Level 39: Replaced Snow Pea with Snowdrop.
+
+KongFu Temple Level 40: Replaced Snow Pea with Snowdrop.
+
+Aerial Fortress Level 14: Added Rotobaga to the plant lineup.
+
+Aerial Fortress Level 20: Added Skyshooter and Banana Launcher to the plant lineup.
+                          Removed the duplicate Spinapple and Loquanado.
+						  This level is bugged. Two other plants meant to be available in this level were left with a duplicate Spinapple and Loquanado in their place. The player has no damage source, rendering this level 
+						  impossible. Skyshooter and Banana Launcher have been added to remedy this.
+						  
+Aerial Fortress Level 26: Added Spinapple, Rotobaga and Ampthurium to the plant lineup.
+                          Stupid level that gives you none of the tools to beat it.
 					 
 Aerial Fortress Level 32: Added Rotobaga and Lantern Cherry to the plant lineup.
                           Removed Moon Bean from the plant lineup.
