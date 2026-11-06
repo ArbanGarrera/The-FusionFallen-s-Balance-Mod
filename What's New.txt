@@ -7,4 +7,4 @@ Ra Zombie's sun sabsorption speed has been doubled to make it an actual threat.
 
 Fixed certain levels missing their card decks due to the level files being outdated.
 
-The Level Patch Notes now has more details on changes to normal and expansion levels. Please check them for more info.
+The Level Patch Notes is more detailed, proving information about changes to normal and expansion levels. Please check them for more info.
