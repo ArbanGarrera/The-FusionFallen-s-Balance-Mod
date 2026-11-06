@@ -1,10 +1,10 @@
 ==What's New?==
-Bud-uh Boom's sun cost has been increased from 100 to 175, its butter damage has been reduced from 100 to 40 and the number of butter projectiles it flings has been reduced from 8 to 5.
+Bud'uh Boom's sun cost has been increased from 100 to 175, its butter damage has been reduced from 100 to 40 and the number of butter projectiles it flings has been reduced from 8 to 5.
 
 Contain-mint now boosts Bud'uh Boom.
 
-Ra Zombie's sun sabsorption speed has been doubled to make it an actual threat.
+Ra Zombie's sun absorption speed has been doubled to make it an actual threat.
 
 Fixed certain levels missing their card decks due to the level files being outdated.
 
-The Level Patch Notes is now more detailed, providing information about changes to normal and expansion levels. Please check them for more info.
+The Level Patch Notes are now more detailed, providing information about changes to normal and expansion levels. Please check them for more info.
