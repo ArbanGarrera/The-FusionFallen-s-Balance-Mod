@@ -30,6 +30,7 @@ Scaredy-shroom: Now obtained from Dark Ages Level 11. This plant should be obtai
 Pumpkin: Now obtained from Dark Ages Level 18. Its Halloween aesthetic fits with night levels and it has synergy with Scaredy-shroom.
 Plantern: Now obtainable from the store after completing Dark Ages Level 18-1. Completely useless without plant food. It shouldn't be locked behind extremely hard levels. Being a store plant is more reasonable.
 Witch Hazel: Now obtainable from the store after completing Dark Ages Level 24. Not that strong so it should be a gemium instead of a ticket plant.
+Tangle Kelp: Now obtained from Big Wave Beach Level 5. Should be obtained a little earlier.
 Bowling Bulb: Now obtained from Big Wave Beach Level 8.
 Sea-shroom: Now obtained from Big Wave Beach Level 11. This plant should be obtained earlier. By the time you get it, you've already beaten the main levels.
 Chomper: Now obtained from Big Wave Beach Level 14. Chomper can serve as a counter to Surfer Zombie, as it kills the zombie without causing it to drop his board.
@@ -145,10 +146,8 @@ Buttercup: ▼ Recharge: 10 → 20
 Pea Pod: ▲ Gains 300 health for every head.
          Losing a Pea Pod after spending so much sun to get it to full power is too punishing. This change makes it harder to lose all of your progress and gives it a niche over competitors like Gatling Pea.
 
-Lightning Reed: ▼ Sun Cost: 125 → 150
-                ▼ Chain damage: 10 → 5
-                Its low damage isn't enough to offset its fast firing speed and multi-lane targetting. Its chain damage has been halved so it is less reliable at dealing with groups of zombies and its sun cost has been increased 
-				to make it harder to get groups of them on the lawn.
+Lightning Reed: ▼ Damage: 10 → 5
+                In spite of its low damage, it has an incredible damage output due its fast firing speed and multi-lane targetting. Its damage has been halved so it is less reliable, especially against groups of zombies.
 
 Melon-pult: ▼ Splash Damage (Plant Food): 250 → 20
             Melon-pult's Plant Food effect is supposed to be strong, but unreliable. With the buff to its splash damage, that unreliability no longer exists. It has been reverted back to its vanilla splash damage to restore its
@@ -277,7 +276,8 @@ Missile Toe: ▼ Recharge: 5 → 10
 			 ▼ Splash Damage: 1200 → 400
              Direct upgrade, now a side-grade. It also has different damage values for direct and splash damage to make it more distinct from Banana Launcher.
 
-Seashooter: ▼ Sun Cost: 275 → 350
+Seashooter: ▲ Extinguishes flames
+            ▼ Sun Cost: 275 → 350
             This plant is a better Threepeater, even when landbound. The sun cost increase makes it so that players would be more reluctant to use it over Threepeater outside of Big Wave Beach.
 
 Parsnip: ▼ Sun Cost: 150 → 175
@@ -285,7 +285,8 @@ Parsnip: ▼ Sun Cost: 150 → 175
          ▼ Attack rate: 0.8 → 1
          A bit overtuned. In spite of its power, it doesn't need more changes as spending 150 sun to replace it balances it out.
 		 
-Aqua Vine: ▼ Damage: 30 → 25
+Aqua Vine: ▲ Extinguishes flames
+           ▼ Damage: 30 → 25
            Slight nerf to prevent it from power creeping Red Stinger and Pea Vine.
 
 Lotorpedo: ▼ Removed stun on waterbound zombies.

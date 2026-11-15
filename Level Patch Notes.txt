@@ -97,6 +97,9 @@ Far Future Level 33: Removed flower line.
 Far Future Level 35: Added Laser Bean, Power Lily and Holly Knight to the plant lineup.
                      Removed Bloomerang and Electric Blueberry from the plant lineup.
 					 
+Dark Ages Level 2: Sun-shroom and Puff-shroom are no longer pre-selected.
+                   Too hand-holdy. The player just got Sun-shroom, they're going to use it anyway.
+					 
 Dark Ages Level 4: Replaced Hypno-shroom with Chili Bean.
                    Too early for the player to have access to Hypno-shroom.
 				   
@@ -106,8 +109,8 @@ Dark Ages Level 10: Replaced Potato Mine with Hypno-shroom.
 Dark Ages Level 13: Replaced Pea-nut with Infi-nut.
                     Pea-nut is completely useless because of Jester Zombie.
 					
-Dark Ages Level 18: Replaced Pea-nut with Pumpkin.
-                    Added Magnet-shroom and Cherry Bomb to the plant lineup.
+Dark Ages Level 18: Added Magnet-shroom, Pumpkin and Cherry Bomb to the plant lineup.
+					Removed Pea-nut from the plant lineup.
 					Replaced Pea-nut for the same reason as above. Magnet-shroom and Cherry Bomb are too essential not to have.
 
 Dark Ages Level 20: Added Hypno-shroom, Scaredy-shroom and Pumpkin to the plant lineup.
@@ -128,25 +131,33 @@ Dark Ages Level 30: Added Puff-shroom, Fume-shroom, Hypno-shroom, Pumpkin, Vampo
 Big Wave Beach Level 3: Replaced Chomper with Torchwood.
                         The player hasn't unlocked Chomper yet and Torchwood takes advantage of the existing lineup.
 						
+Big Wave Beach Level 6: Plants are no longer pre-selected.
+                        Done to curb the excessive number of levels in Big Wave Beach where the player is unable to select their plants.
+						
 Big Wave Beach Level 10: Replaced Peashooter with Cabbage-pult.
                          Cabbage-pult is needed to deal with the Snorkel Zombies.
 						 
-Big Wave Beach Level 11: Added Sea-shroom to the plant lineup.
-                         This is the level where you unlock Sea-shroom and Bowling Bulb alone isn't enough to deal with the zombies.
+Big Wave Beach Level 11: Plants are no longer pre-selected.
+                         Done to curb the excessive number of levels in Big Wave Beach where the player is unable to select their plants.
 						 
 Big Wave Beach Level 16: Replaced Wall-nut with Sea-shroom.
 						 
-Big Wave Beach Level 19: Replaced Iceberg Lettuce with Sea-shroom.
-                         Single-use plants aren't that useful in Big Wave Beach.
+Big Wave Beach Level 18 and 19: Swapped levels.
+                                Plants are no longer pre-selected.
+                                New Level 18's plants are no longer pre-selected.
+							    Swapped levels for better flow and to curb the excessive number of levels where the player is unable to select their plants.
 						 
-Big Wave Beach Level 21: Added Ghost Pepper and Lightning Reed to the plant lineup.
+Big Wave Beach Level 21: Added Sea-shroom, Ghost Pepper and Lightning Reed to the plant lineup.
                          Removed Iceberg Lettuce and Homing Thistle from the plant lineup.
-                         Now that Homing Thistle was moved to Jurassic Marsh, this is Ghost Pepper's showcase level as you obtain it here. Lightning Reed is here as you still need an attacking plant.
+                         Now that Homing Thistle was moved to Jurassic Marsh, this is Ghost Pepper's showcase level as you obtain it here. Sea-shroom and Lightning Reed are here as you still need attacking plants.
 						 
-Big Wave Beach Level 27: Replaced Wall-nut with Tall-nut.
+Big Wave Beach Level 26: Replaced Wall-nut with Tall-nut.
                          Tall-nut is here to showcase its ability to survive in water.
+
+Big Wave Beach Level 27: Replaced Wall-nut with Tall-nut.
 						 
 Big Wave Beach Level 31: Added Sun-shroom, Bowling Bulb, Sea-shroom and Infi-nut to the plant lineup.
+                         Removed Wall-nut and Homing Thistle from the plant lineup.
                          This level is impossible with Sun Bean as your only sun producer. Infi-nut is here to showcase its force field's ability to block Octopi and Fisherman Zombies.
 
 Big Wave Beach Level 32: Added Sea-shroom, Chomper and Ghost Pepper to the plant lineup.
@@ -154,10 +165,17 @@ Big Wave Beach Level 32: Added Sea-shroom, Chomper and Ghost Pepper to the plant
 
 Big Wave Beach Level 42: Added Bowling Bulb, Chomper, Banana Launcher and Seahooter to the plant lineup.
                          Removed Coconut Cannon and Cold Snapdragon from the plant lineup.
+
+Frostbite Caves Level 2: Hot Potato is no longer pre-selected.
+                         Too hand-holdy. The player just got Hot Potato, they're going to use it anyway.
 						 
 Frostbite Caves Level 3: Replaced Hurrikale with Torchwood.
                          Originally a showcase level for Hurrikale. It has been replaced with Torchwood now that it has been moved to Neon Mixtape Tour. Torchwood allows for better usage of your Peashooters as well as melting ice
 						 blocks.
+						 
+Frostbite Caves Level 5 and 6: Swapped levels.
+                               New Level 5's plants are no longer pre-selected.
+							   Swapped levels for better flow and to curb the excessive number of levels where the player is unable to select their plants.
 						 
 Frostbite Caves Level 8: Replaced Hurrikale with Power Lily.
 
@@ -167,14 +185,16 @@ Frostbite Caves Level 16: Added Torchwood and Lava Guava to the plant lineup.
                           Removed Spikeweed from the plant lineup.
 						  
 Frostbite Caves Level 18: Replaced Stunion with Jalapeno.
-                          It's odd that you jut get Jalapeno, but this level promotes the uage of Stunion, which isn't unlocked until the next level.
+                          It's odd that you just got Jalapeno, but this level promotes the uage of Stunion, which isn't unlocked until the next level.
 						  
-Frostbite Caves Level 19: Replaced Stunion with Jalapeno.
+Frostbite Caves Level 19: Plants are no longer pre-selected.
+                          Done to curb the excessive number of levels where the player is unable to select their plants.
 
 Frostbite Caves Level 21: Added Pepper-pult and Chomper to the plant lineup.
                           Removed Fire Peashooter and Spikerock from the plant lineup.
                           Replaced the frozen Spikerocks with Spikeweeds.
-                          Fire Peashooter shouldn't be made available outside of its showcase level and Spikerock isn't obtainable yet. Spikeweed already appears in many Frostbite Caves levels, so Chomper adds variety.
+                          Fire Peashooter shouldn't be made available outside of its showcase level and Spikerock isn't obtainable yet. Spikeweed already appears in many Frostbite Caves levels. Chomper is an emergency option to
+						  help break frozen plants out of the ice.
 						  
 Frostbite Caves Level 25: Added Lava Guava and Pyre Vine to the plant lineup.
                           Removed Rotobaga from the plant lineup.
@@ -184,13 +204,22 @@ Frostbite Caves Level 26: Replaced Rotobaga with Starfruit.
 
 Frostbite Caves Level 27: Replaced Rotobaga with Starfruit.
 
-Frostbite Caves Level 29: Replaced Rotobaga with Starfruit.	 
+Frostbite Caves Level 29: Added Chard Guard and Starfruit to the plant lineup.
+                          Removed Wall-nut and Rotobaga from the plant lineup. 
 						 
 Frostbite Caves Level 30: Added Lava Guava, Jalapeno, Stunion, Pyre Vine and Starfruit to the plant lineup.
                           Removed Threepeater and Fire Peashooter from the plant lineup.
+						  
+Frostbite Caves Level 37: Replaced Hurrikale with Jalapeno.
+                          Hurrikale doesn't make sense to use in a world where zombies are immune to chilling.
 
 Frostbite Caves Level 40: Added Pepper-pult, Chard Guard, Jalapeno, Stunion, Pyre Vine and Starfruit to the plant lineup.
                           Removed Shadow-shroom and Fire Peashooter from the plant lineup.
+						  
+Lost City Level 2: Red Stinger is no longer pre-selected.
+				   
+Lost City Level 5 and 6: Swapped levels.
+                         New Level 5's plants are no longer pre-selected.
 						  
 Lost City Level 8: Added Laser Bean to the plant lineup.
                    Added as an additional option to deal with both Excavator and Parasol Zombies.
@@ -198,12 +227,12 @@ Lost City Level 8: Added Laser Bean to the plant lineup.
 Lost City Level 9: Replaced Spikerock with Pyre Vine. 
                    Spikerock isn't obtainable yet and Pyre Vine fulfills a smilar role.
 				   
-Lost City Level 13: Replaced Spikerock with Umbrella Leaf.
-                    Same reason as above and this level is meant to demonstrate Umbrella Leaf's abilities.
-					
-Lost City Level 14: Added Umbrella Leaf, Blover and Scaredy-shroom to the plant lineup.
-					This is the level you obtain Umbrella Leaf and Blover counters the Bug Zombies. Scaredy-shroom has been added for variety as you're likely sick of using Red Stinger as the Parasol Zombie counter and it is
-					similar to Red Stinger in that it is most effective while in the back.
+Lost City Level 13: Added Blover and Scaredy-shroom to the plant lineup.
+					Blover counters the Bug Zombies. Scaredy-shroom has been added for variety as you're likely sick of using Red Stinger as the Parasol Zombie counter and it is similar to Red Stinger in that it is most effective
+					while in the back.
+				   
+Lost City Level 14: Replaced Spikerock with Umbrella Leaf.
+                    This is the level you obtain Umbrella Leaf
 					
 Lost City Level 16: Added Umbrella Leaf and Blover to the plant lineup.
                     Removed Cherry Bomb and Lava Guava from the plant lineup.
@@ -456,6 +485,13 @@ Seashooter Level 2. Added Tangle Kelp and Imitater to the plant selection.
 					The tide goes out on Wave 7 instead of Wave 6.
 					The tide goes out one tile less between Wave 7 and Wave 10 to allow for better Tangle Kelp placement.
 					No longer beatable due to Seahooter's increased sun cost and Torchwood's reduced health. Tangle Kelp and Imitater have been added to deal with zombies in undefended lanes.
+					
+Aqua Vine Level 4: Added Imitater to the plant lineup.
+                   One Tangle Kelp is not enough. There will often be too many strong zombies on the lawn and Tangle Kelp won't be avilable to deal with them.
+				   
+Aqua Vine Level 6: Removed Low Tide ambushes.
+                   Removed Surfer Veterans on Waves 8, 9, 12, 14 and 15.
+				   Spawning Gargantuars in the middle of the lawn is never fair. The amount of Surfer Veterans is too excessive. The player does no have enough time to deal with so many at once.
 
 Parsnip Level 3: Removed flower line.
                  Parsnip cannot be spammed as effectively to prevent the zombies from crossing over the flower line.

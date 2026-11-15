@@ -37,14 +37,14 @@ Surfer Zombie: ▼ Health: 350 → 270
 
 Octo Zombie: ▼ Health: 910 → 510
              ▼ Octopus Health: 400 → 300
-             Too much health for how dangerous his ability is. His health has been reduced and the octopi he throws is easier to kill too.
+             Too much health for how dangerous his ability is. His health has been reduced and the octopi he throws are easier to kill too.
 
 Fisherman Zombie: ▼ Health: 1000 → 200
                   Somehow has more health than a Conehead despite wearing no armor. His health has been reduced significantly due to the player having little opportunity to engage him as he is all the way in the back and his 
 				  health is too high for how dangerous he is.
 				  
 Troglobite: ▲ Health: 470 → 510
-            Pretty much useless after all of his blocks are destroyed. It should have a bit more staying power now.
+            Pretty much useless after all of his ice blocks are destroyed. It should have a bit more staying power now.
 
 Relic Hunter Zombie: ▼ Health: 700 → 300
                      Too much health for an unarmored zombie that appears in the middle of the lawn.

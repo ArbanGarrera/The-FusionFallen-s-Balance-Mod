@@ -1,2 +1,20 @@
 ==What's New?==
-Changed several levels in KongFu Temple and Aerial Fortress. Please see the Level Patch Notes for the full list of changes.
+Dark Ages Level 2 : Plants are no longer pre-selected.
+
+Big Wave Beach Level 6: Plants are no longer pre-selected.
+
+Big Wave Beach Level 11: Plants are no longer pre-selected.
+
+Big Wave Beach Level 18 and 19: Levels are swapped. Plants in new Level 18 are no longer pre-selected.
+
+Frostbite Caves Level 5 and 6: Levels are swapped. Plants in new Level 5 are no longer pre-selected.
+
+Frostbite Caves Level 19: Plants are no longer pre-selected.
+
+Frostbite Caves Level 29: Replaced Wall-nut with Chard Guard.
+
+Frostbite Caves Level 37: Replaced Hurrikale with Jalapeno.
+
+Lost City Level 5 and 6: Levels are swapped. Plants in new Level 5 are no longer pre-selected.
+
+Lost City Level 13 and 14: Levels are swapped.
