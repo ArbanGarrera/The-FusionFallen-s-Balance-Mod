@@ -59,7 +59,7 @@ Pirate Seas Level 35: Added Kernel-pult, Snapdragon, Spring Bean, Coconut Cannon
 Wild West Level 9: Replaced Wall-nut and Winter Melon with Garlic and Snow Pea.
                    Garlic's inclusion makes the level more fun. You can mess around with it and the mine carts. The player should not have access to Winter Melon yet.
 				   
-Wild West Level 16: Moved Wall-nut First Aid from Level 15 to this level.
+Wild West Level 17: Moved Wall-nut First Aid from Level 15 to this level.
 				   
 Wild West Level 22: Replaced Winter Melon with Melon-pult.
 
@@ -79,6 +79,8 @@ Far Future Level 8: Replaced Wall-nut with Tall-nut.
 					
 Far Future Level 20: Replaced the Starfruits with Lightning Reeds.
                      Starfruit shouldn't be here now that it has been moved to Frostbite Caves. Lightning Reed is the closest thing to Starfruit at this point in the game.
+					 
+Far Future Level 22: Moved Mower Launcher from Level 20 to here.
 
 Far Future Level 25: Added E.M. Peach and Power Lily to the plant lineup.
 
@@ -137,15 +139,17 @@ Big Wave Beach Level 6: Plants are no longer pre-selected.
 Big Wave Beach Level 10: Replaced Peashooter with Cabbage-pult.
                          Cabbage-pult is needed to deal with the Snorkel Zombies.
 						 
-Big Wave Beach Level 11: Plants are no longer pre-selected.
-                         Done to curb the excessive number of levels in Big Wave Beach where the player is unable to select their plants.
+Big Wave Beach Level 11 and 12: Swapped levels.
+                                New Level 12's plants are no longer pre-selected.
+                                Done to curb the excessive number of levels in Big Wave Beach where the player is unable to select their plants and it doesn't make sense to get a free plant, only for the next level to ban free 
+								plants.
 						 
 Big Wave Beach Level 16: Replaced Wall-nut with Sea-shroom.
 						 
-Big Wave Beach Level 18 and 19: Swapped levels.
-                                Plants are no longer pre-selected.
-                                New Level 18's plants are no longer pre-selected.
-							    Swapped levels for better flow and to curb the excessive number of levels where the player is unable to select their plants.
+Big Wave Beach Level 17 and 18: Swapped levels.
+
+Big Wave Beach Level 19: New Level 18's plants are no longer pre-selected.
+						 Done to curb the excessive number  of levels where the player is unable to select their plants.
 						 
 Big Wave Beach Level 21: Added Sea-shroom, Ghost Pepper and Lightning Reed to the plant lineup.
                          Removed Iceberg Lettuce and Homing Thistle from the plant lineup.
@@ -237,12 +241,19 @@ Lost City Level 14: Replaced Spikerock with Umbrella Leaf.
 Lost City Level 16: Added Umbrella Leaf and Blover to the plant lineup.
                     Removed Cherry Bomb and Lava Guava from the plant lineup.
 					
-Lost City Level 22: Added Toadstool and Umbrella Leaf to the plant lineup.
-                    This is the level you unlock Toadstool and Lost Pilot Zombies have no counterplay other than Umbrella Leaf.
+Lost City Level 18 and 19: Swapped levels.
+
+Lost City Level 21 and 22: Swapped levels.
+                           Added Umbrella Leaf to the new Level 21 plant lineup.
+                           Lost Pilot Zombies have no counterplay other than Umbrella Leaf.
+						   
+Lost City Level 25: Plants are no longer pre-selected.
+
+Lost City Level 26: Gold Leaf is no longer pre-selected.
 					
-Lost City Level 28: Added Umbrella Leaf, Toadstool and Stunion to the plant lineup.
+Lost City Level 28: Added Umbrella Leaf and Toadstool to the plant lineup.
                     Removed Iceberg Lettuce from the plant lineup.
-					Umbrella Leaf and Toadstool are there to counter the Lost Pilot and Bug Zombies. Stunion replaces Iceberg Lettuce for variety.
+					Umbrella Leaf and Toadstool are there to counter the Lost Pilot and Bug Zombies.
 					
 Lost City Level 31: Added Blover to the plant lineup.
                     Added to deal with the Bug Zombies.
@@ -250,34 +261,45 @@ Lost City Level 31: Added Blover to the plant lineup.
 Lost City Level 32: Added Umbrella Leaf, Toadstool and Escape Root to the plant lineup.
                     Removed Bonk Choy from the plant lineup.
 					
+Lost City Level 34: Unbanned Blover.
+                    Banning it is no longer necessary now that it has been nerfed.
+					
+Lost City Level 35: Removed sun spending limit.
+
+Lost City Level 37: Added Umbrella Leaf to the plant lineup.
+                    Required to deal with the Lost Pilot Veterans.
+					
 Lost City Level 42: Added Red Stinger, A.K.E.E., Endurian, Umbrella Leaf, Toadstool, Escape Root and Aloe to the plant lineup.
                     Removed Laser Bean, Banana Launcher, Blooming Heart and Fire Gourd from the plant lineup.
+					
+Neon Mixtape Tour Level 2: Phat Beet is no longer pre-selected.
 					
 Neon Mixtape Tour Level 3: Replaced Cactus with Bloomerang.
                            Originally a showcase level for Cactus. Now that it has been moved to Wild West, Bloomerang replaces it as it is the most similar to Cactus.
 						   
-Neon Mixtape Tour Level 4: Replaced Sunflower with Sun-shroom.
-                           Sun-shroom is better for night levels.
+Neon Mixtape Tour Level 4: Plants are no longer pre-selected.
+
+Neon Mixtape Tour Level 7: Plants are no longer pre-selected.
 						   
 Neon Mixtape Tour Level 9: Replaced Peashooter with Scaredy-shroom.
                            Scaredy-shroom is more efficient for a level where sun production is limited.
 						   
 Neon Mixtape Tour Level 10: Added Jalapeno and Sweet Potato to the plant lineup.
-                            Removed Spikerock from the plant lineup.
+                            Removed Spikerock and Thyme Warp from the plant lineup.
                             Thyme Warp was moved to Modern Day. Spikerock isn't available until the next level. Jalapeno and Sweet Potato synergize with each other and make for fun combos.
 							
 Neon Mixtape Tour Level 11: Added Sun-shroom and Puff-shroom to the plant lineup. 
                             Removed Sunflower and Thyme Warp from the plant lineup.
+							Sun-shrooms are better for night levels and you will need another attacking plant.
 							
-Neon Mixtape Tour Level 14: Added Laser Bean and Sweet Potato to the plant lineup. 
+Neon Mixtape Tour Level 14: Added Laser Bean, Sweet Potato and Spikerock to the plant lineup. 
                             Removed Cactus and Thyme Warp from the plant lineup.
-							Again, Cactus and Thyme Warp aren't here anymore. Laser Bean is similar to Cactus and Sweet Potato can be used for Celery Stalker setups.
+							Again, Cactus and Thyme Warp aren't here anymore. Laser Bean and Spikerock function similarly to Cactus and Sweet Potato can be used for Celery Stalker setups.
 							
 Neon Mixtape Tour Level 16: Added Sweet Potato and Spikerock to the plant lineup.
-                            Removed Kernel-pult from the plant lineup.
+                            Removed Kernel-pult and Thyme Warp from the plant lineup.
 							
-Neon Mixtape Tour Level 18: Replaced Garlic with Hurrikale.
-                            Garlic is no longer in this world and was useless here anyway.
+Neon Mixtape Tour Level 18: Plants are no longer pre-selected.
 							
 Neon Mixtape Tour Level 19: Added Lightning Reed, Sweet Potato and Hurrikale to the plant lineup.
                             Removed Electric Blueberry, Garlic and Thyme Warp to the plant lineup.
@@ -287,17 +309,22 @@ Neon Mixtape Tour Level 22: Added Pepper-pult, Fume-shroom and Shrinking Violet 
                             Removed Spore-shroom and Cherry Bomb from the plant lineup.
 							Spore-shroom was moved and you just got Shrinking Violet. You might as well get to use it.
 							
-Neon Mixtape Tour Level 23: Spore-shroom is no longer pre-selected.
+Neon Mixtape Tour Level 23: Plants are no longer pre-selected.
 
 Neon Mixtape Tour Level 26/28/29: Swapped levels around.
                                   Level 26 is the new Level 29, Level 28 is the new Level 26 and Level 29 is the new Level 28. They have been swapped for better progression.
 								  
-Neon Mixtape Tour Level 27: Added Phat Beet, Sweet Potato, Shrinking Violet, Jalapeno and E.M. Peach to the plant lineup.
+Neon Mixtape Tour Level 27: Added Phat Beet, Sweet Potato, Spikerock, Jalapeno and E.M. Peach to the plant lineup.
                             Removed Garlic and Spore-shroom from the plant lineup.
 							E.M. Peach has been added to demonstrate its ability to disable Boombox Zombies and Arcade Cabinets.
 					
 Neon Mixtape Tour Level 32: Added Sweet Potato, Spikerock, Hurrikale, Shrinking Violet and Intensive Carrot to the plant lineup.
                             Removed Garlic, Stunion and Cactus from the plant lineup.
+							
+Neon Mixtape Tour Level 33: Unbanned Blover and Hurrikale.
+
+Neon Mixtape Tour Level 34: Replaced Iceberg Lettuce with Sap-fling.
+                            Having Iceberg Lettuce and Stunion together is redundant.
 							
 Neon Mixtape Tour Level 37: Replaced Twin Sunflower with Primal Sunflower.
                             Since sun no longer falls in this world, planting Twin Sunflowers and by extension, completing this level is impossible.
@@ -305,25 +332,32 @@ Neon Mixtape Tour Level 37: Replaced Twin Sunflower with Primal Sunflower.
 Neon Mixtape Tour Level 42: Added Celery Stalker, Sweet Potato, Spikerock, Hurrikale, Shrinking Violet and Intensive Carrot to the plant lineup.
                             Removed Loquanado and Holly Knight from the plant lineup.
 							
+Jurassic Marsh 1: Primal Peashooter is no longer pre-selected.
+
+Jurassic Marsh 2: Primal Peashooter is no longer pre-selected.
+							
 Jurassic Marsh Level 3: Replaced Grapeshot with Snap Pea.
                         Now that Grapeshot has been replaced with Snap Pea, this should be the showcase level for Snap Pea.
 						
-Jurassic Marsh Level 9: Added Split Pea and Jalapeno to the plant lineup.
-                        Removed Potato Mine from the plant lineup.
-						You will need a cheaper attacking plant, especially one that can attack from behind due to Primal Peashooter's increased sun cost and Sun-shroom's initial poor sun output. Jalapeno replaces Potato Mine as 
-						it is a more practical solution to the Pterodactyls.
+Jurassic Marsh Level 8 and 9: Swapped levels.
+                              Added Split Pea and Hurrikale to New Level 8's plant lineup.
+                              Removed Potato Mine from New Level 8's plant lineup.
+						      You will need a cheaper attacking plant, especially one that can attack from behind due to Primal Peashooter's increased sun cost and Sun-shroom's initial poor sun output. Hurrikale replaces Potato 
+							  Mine as it is a more practical solution to the Dinosaurs.
 						
 Jurassic Marsh Level 14: Added Homing Thistle and Tall-nut to the plant lineup.
                          Removed Grapeshot from the plant lineup.
-						 Tall-nut has been added to this level to showcase its ability to block zombies kicked by Raptors. Grapeshot presence was a remnant from vanilla PvZ2 where the developers would tease premium plant in 
+						 Tall-nut has been added to this level to showcase its ability to block zombies kicked by Raptors. Grapeshot's presence was a remnant from vanilla PvZ2 where the developers would tease premium plant in 
 						 normal levels to encourage players to buy them.
 						 
-Jurassic Marsh Level 16: Added Homing Thistle and Snap Pea to the plant lineup.
+Jurassic Marsh Level 16: Added Homing Thistle to the plant lineup.
                          Removed Grapeshot from the plant lineup.
                          Gargantuar levels are meant to put the player to the test and utilize all of the plants they unlocked in their respective world up to this point. Adding Homing Thistle and Snap Pea is the natural choice.
-						 While Celery Stalker isn't from this world, it staying as it is a great counter to zombies transported by the dinosaurs.
+						 While Celery Stalker isn't from this world, it staya as it is a great counter to zombies transported by the dinosaurs.
 
-Jurassic Marsh Level 17: Replaced Primal Sunflower with Sap-fling.
+Jurassic Marsh Level 17: Plants are no longer pre-selected.
+
+Jurassic Marsh Level 23: Primal Potato Mine is no longer pre-selected.
 
 Jurassic Marsh Level 29: Added Homing Thistle, Blooming Heart and Chard Guard to the plant lineup.
                          With all of this level's original lineup being nerfed, this level needs more plants. It features more of Jurassic Marsh's roster and Chard Guard to demonstrate its effectiveness in this world.
@@ -334,25 +368,30 @@ Jurassic Marsh Level 31: Replaced Cold Snapdragon with Sap-fling.
 Jurassic Marsh Level 32: Added Homing Thistle, Sap-fling and Blooming Heart to the plant lineup.
                          Removed Bonk Choy and Chard Guard from the plant lineup.
 						 
+Jurassic Marsh Level 34: Replaced Gold Bloom with Sun Bean.
+                         Should not be available outside of its Epic Quest.
+						 
 Jurassic Marsh Level 42: Added Primal Wall-nut, Homing Thistle, Sap-fling, Blooming Heart Primal Potato Mine and Meteor Flower to the plant lineup.
                          Removed Guacodile, Endurian and Parsnip from the plant lineup.
 						 
 Modern Day Level 3: Added Jalapeno to the plant lineup.
                     You will need it to deal with the Troglobites.
 					
-Modern Day Level 9: Added Murkadamia Nut, Snow Pea and Hot Potato to the plant lineup.
+Modern Day Level 9: Added Hurrikale and Hot Potato to the plant lineup.
                     Removed Nightshade and Thyme Warp from the plant lineup.
-					You don't have access to Nightshade and Thyme Warp yet. Snow Pea and Hurrikale can deal with the Explorer Zombies and Balloon Zombies and Hot Potato can melt frozen plants without disrupting the ice plants.
+					The player doesn't have Thyme Warp yet. Hurrikale can deal with the Explorer Zombies and Balloon Zombies and Hot Potato can melt frozen plants without disrupting the ice plants.
 					
-Modern Day Level 14: Added Murkadamia Nut, Sweet Potato, Blover and E.M. Peach to the plant lineup.
-                     Removed Garlic and Nightshade from the plant lineup.
+Modern Day Level 11: Plants are no longer pre-selected.
+					
+Modern Day Level 14: Added Murkadamia Nut, Blover and E.M. Peach to the plant lineup.
+                     Removed Garlic from the plant lineup.
 					 Garlic is useless as it doesn't work on robots and you need Blover and E.M. Peach to deal with the airborne zombies and robots.
 					 
 Modern Day Level 16: Added Ghost Pepper and Angel Starfruit to the plant lineup.
                      Removed Grapeshot and Cold Snapdragon from the plant lineup.
 					 Angel Starfruit is the only gemium who should be showcased here.
 					 
-Modern Day Level 19: Added E.M. Peach and Umbrella Leaf to the plant lineup.
+Modern Day Level 19: Added E.M. Peach and Umbrella Leaf to Modern Day Level 19's plant lineup.
                      You will need them to deal with the falling zombies and robots.
 					
 Modern Day Level 32 (Ancient Egypt Zombot): Added Garlic and Pea-nut to the plant lineup.
@@ -380,7 +419,7 @@ Modern Day Level 34 (Jurassic Marsh Zombot): Added Murkadamia Nut and Gloom Vine
 Modern Day Level 44: Added Murkadamia Nut, Gloom Vine, Grimrose and Shadow Peashooter to the plant lineup.
                      Removed Spikeweed, Fume-shroom, Chomper and Stallia from the plant lineup.
 					 
-KongFu Temple Level 7: Replaced Snow Pea with Snowdrop.
+KongFu Temple Level 7: Plants are no longer pre-selected.
 
 KongFu Temple Level 8: Replaced Snow Pea with Snowdrop.
 
@@ -403,15 +442,32 @@ KongFu Temple Level 39: Replaced Snow Pea with Snowdrop.
 
 KongFu Temple Level 40: Replaced Snow Pea with Snowdrop.
 
-Aerial Fortress Level 14: Added Rotobaga to the plant lineup.
+Aerial Fortress Level 6: Replaced Rotobaga with Umbrella Leaf.
+                         Player shouldn't have access to Rotobaga and Umbrella Leaf counters the Imps.
+
+Aerial Fortress Level 14: Added Rotobaga and Solar Sage to the plant lineup.
+                          Removed Moon Bean from the plant lineup.
+						  With your sun production being limited, Solar Sage would be more suitable for this level than Moon Bean.
+
+Aerial Fortress Level 16: Added Rotobaga to the plant lineup.
+
+Aerial Fortress Level 17 and 18: Swapped levels.
+                                 It doesn't make sense to give the player a plant and then prevent them from choosing it freely for four levels. The player now has at least one level to use Loquat freely before the levels they 
+								 have to play the levels that lmit their choice.
 
 Aerial Fortress Level 20: Added Skyshooter and Banana Launcher to the plant lineup.
                           Removed the duplicate Spinapple and Loquanado.
 						  This level is bugged. Two other plants meant to be available in this level were left with a duplicate Spinapple and Loquanado in their place. The player has no damage source, rendering this level 
 						  impossible. Skyshooter and Banana Launcher have been added to remedy this.
 						  
+Aerial Fortress Level 23: Added Ampthurium to the plant lineup.
+                          You will need it to deal with the lightning.
+						  
 Aerial Fortress Level 26: Added Spinapple, Rotobaga and Ampthurium to the plant lineup.
                           Stupid level that gives you none of the tools to beat it.
+						  
+Aerial Fortress Level 31: Replaced Moon Bean with Ghost Pepper.
+                          Moon Bean is replaced. It still shouldn't be appearing in this world so often.   
 					 
 Aerial Fortress Level 32: Added Rotobaga and Lantern Cherry to the plant lineup.
                           Removed Moon Bean from the plant lineup.
@@ -425,8 +481,8 @@ Buttercup Level 2: Added Iceberg Lettuce to the plant lineup.
 Buttercup Level 3: Added an extra plant slot.
                    Buttercup alone is no longer capable of dealing with the zombies. You will need a third option.
 						
-Reinforce-mint Level 1: Added five more Repeaters to the conveyor belt.
-                        The player is likely to lose some of their Repeaters, which turns the level into a slog.
+Reinforce-mint Level 1 and 4: Removed.
+                              No longer necessary now that Pumpkin is a world plant.
 						
 Reinforce-mint Level 2: Replaced Repeater with Scaredy-shroom. 
                         Removed one of the Punk Zombies in Wave 3.
@@ -438,6 +494,8 @@ Reinforce-mint Level 5: Now a daytime level.
 						Time limit has been removed.
 						Blover's increased sun cost is higher than the sun the player is given. Even with all of these changes, this level is still awful to play because the window between planting Blover and launching a barrier
 						is so small that Blover will often fail to blow away zombies before the barrier lands.
+						
+Reinforce-mint Level 7: Unbanned Electric Currant and Heavenly Peach.
 
 Reinforce-mint Level 6: Removed all plant restrictions except for Skyshooter. 
                         Moved the portal that spawns on Wave 2 to Column 6. 
@@ -520,15 +578,20 @@ Ice Bloom Level 4: Turned off 8-bit Jam on Wave 1.
                    Removed Parachute Rain on Wave 3.
                    There are too many zombies to deal with so early. The player has no way of dealing with them.
 
-Appease-mint 2 Level 6: Replaced Jester Zombies with Weasel Hoarders.
-                        No longer possible due to Torchwood's reduced health and the removal of its insta-kill ability. The Jesters make the level impossible. They have beem replaced with Weasel Hoarders as the Weasels retain the
-						difficulty by ignoring ice floes.
+Appease-mint 2 Level 6: Removed.
+                        No longer necessary now that Torchwood is a world plant.
+						
+Pepper-mint Level 1 and 9: Removed.
+                           No longer necessary now that Pyre Vine is a world plant.
 
 Pepper-mint Level 2: Added Sun-shroom to the plant selection.
                      The plant selection will no longer be sufficient to deal with zombies as the level goes on.
 					 
 Pepper-mint Level 3: Added Perfume-shroom and Thyme Warp to the plant selection.
                      With Inferno's reduced stalling capabilities, the player needs more options to stall the zombies. It's also ridiculous to have dinosaurs in a level, but no Perfume-shroom to deal with them.
+					 
+Pepper-mint Level 5: Added Pepper-pult and Lava Guava to the plant lineup.
+					 Reworked into a level utilizing your existing Pepper-mint lineup to put your skills to the test.
 					 
 Pepper-mint Level 8: Replaced Sun-shroom with Sunflower and removed the Punk Jam on Wave 8.
                      Using Sun-shrooms in a daytime level makes it harder than necessary. The Punk Jam was removed as the skunks immediately shut down your plants and made the level impossible.
@@ -557,6 +620,8 @@ Mirror-nut Level 3: Removed objective.
 					
 Meteor Flower Level 2: Torch Monks no longer spawn from the portals.
                        It's ridiculous to spawn fire zombies in a level that forces you to use a fire plant.
+					   
+Conceal-mint Level 1, 3 and 6: Removed.
 					   
 Conceal-mint Level 2: Replaced the Buckethead on Wave 2 with a Conehead. 
                       Replaced Newspaper Veterans with normal Newspaper Zombies. 

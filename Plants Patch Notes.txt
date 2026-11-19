@@ -11,7 +11,7 @@ to the seven of the earlier worlds. The goal is for each world to have 7-8 plant
 
 Snow Pea: Now obtained from Ancient Egypt Level 24. It's better to have this plant early than later. Snow Pea isn't that effective in Kongfu Temple because of the weapon stands and Hammer Zombie.
 Twin Sunflower: Now obtained from Ancient Egypt Level 21.
-Squash: Now obtainable from the store after completing Ancient Egypt Level 6. A plant as simple as Squash shouldn't be locked behind several difficult levels.
+Squash: Now obtainable from the store after completing Ancient Egypt Level 6-1. A plant as simple as Squash shouldn't be locked behind several difficult levels.
 Grapeshot: Now obtainable from the store after completing Ancient Egypt Level 24-1. Grapes were widely cultivated in Ancient Egypt to make wine.
 Sling Pea: Now obtainable from the store after completing Ancient Egypt Level 28. Fits in a lobber-centric world.
 Garlic: Now obtained from Pirate Seas Level 18. Replaces Spikerock. The planks make it easy for it to manipulate zombies.
@@ -22,7 +22,7 @@ Torchwood: Now obtained from Wild West Level 15. At this point you have enough P
 Cactus: Now obtainable from the store after completing Wild West Level 10. Fits with the desert theme.
 Cran Jelly: Now obtainable from the store after completing Wild West Level 24-1. It fits in the world since 19th century America was where the cranberry was first cultivated.
 Chilly Pepper: Now obtainable from the store as a ticket plant. It's still pretty strong that it should be locked behind tickets.
-Power Lily: Now obtained from Far Future Level 21. Fits in a plant food-centric world.
+Power Lily: Now obtained from Far Future Level 20. Fits in a plant food-centric world.
 Imitater: Now obtainable from the store after completing Far Future Level 10. It turns into a clone of a plant and cloning is a futuristic concept.
 Moon Bean: Now obtainable from the store after completing Far Future Level 19. It revolves around a Far Future mechanic so it belongs in this world.
 Hypno-shroom: Now obtained from Dark Ages Level 8. It is more useful in Dark Ages than other worlds due to the larger supply of high toughness zombies like Knight Zombies and zombies under the effects of potions.
@@ -34,6 +34,7 @@ Tangle Kelp: Now obtained from Big Wave Beach Level 5. Should be obtained a litt
 Bowling Bulb: Now obtained from Big Wave Beach Level 8.
 Sea-shroom: Now obtained from Big Wave Beach Level 11. This plant should be obtained earlier. By the time you get it, you've already beaten the main levels.
 Chomper: Now obtained from Big Wave Beach Level 14. Chomper can serve as a counter to Surfer Zombie, as it kills the zombie without causing it to drop his board.
+Guacodile: Now obtained from Big Wave Beach Level 17. Moved to better space out the world's plants.
 Ghost Pepper: Now obtained from Big Wave Beach Level 21. Ghost Pepper can be planted over the water and helps deal with Octo Zombies and Fisherman Zombies in the back.
 Lava Guava: Now obtained from Frostbite Caves Level 14. It can warm plants and can be positioned near slider tiles so zombies walk right into his lava pool.
 Jalapeno: Now obtained from Frostbite Caves Level 17. Jalapeno can serve as a counter to Troglobite, as it covers the zombie's range and it can kill the Yeti Imps without needing to break the ice blocks first.
@@ -44,19 +45,20 @@ Toadstool: Now obtained from Lost City Level 22. Its a toad in a world full of b
 Escape Root: Now obtained from Lost City Level 29. It is a plant that functions like a trap so it fits with a world full of trap tiles.
 Turkey-pult: Now obtainable from the store as a gemium plant after completing Lost City Level 31. It isn't strong enough to be a ticket plant. 
 Sweet Potato: Now obtained from Neon Mixtape Tour Level 9. Replaces Thyme Warp. It's too simple of a plant to be in an epic quest and it has synergy with Phat Beet.
-Spikerock: Now obtained from Neon Mixtape Tour Level 11. It fits thematically with the world as a plant with 'rock' in its name would fit with the rock 'n' roll world.
+Spikerock: Now obtained from Neon Mixtape Tour Level 14. It fits thematically with the world as a plant with 'rock' in its name would fit with the rock 'n' roll world.
 Hurrikale: Now obtained from Neon Mixtape Tour Level 17. Replaces Garlic. Hurrikale can serve as a counter to Breakdancer Zombie by pushing back the zombies it kicks.
 Shrinking Violet: Now obtained from Neon Mixtape Tour Level 21. Replaces Spore-shroom. All of the zombies have dangerous special abilities and Shrinking Violet can turn them off or weaken them.
 Spore-shroom: Now obtained from Neon Mixtape Tour Level 29. It isn't that essential and doesn't interact with any of the zombies or mechanics of the world.
 Homing Thistle: Now obtained from Jurassic Marsh Level 11. Homing Thistle can attack the zombies moved to the back of the lawn by pterodactyls. Splitpea can't deal with the Bucketheads on its own.
 Sap-fling: Now obtained from Jurassic Marsh Level 17. Fits thematically with the world as tree sap can form amber. There are many instances of amber containing fossils. Also serves to mitigate the T-Rex's effects.
-Blooming Heart: Now obtained from Jurassic Marsh Level 21. It can serve as a counter to Jurassic Bully.
+Blooming Heart: Now obtained from Jurassic Marsh Level 20. It can serve as a counter to Jurassic Bully.
 Primal Sunflower: Now obtained from Jurassic Marsh Level 29.
 Snap Pea: Now obtainable from the store after completing Jurassic Marsh Level 3. Replaces Grapeshot. It has a dinosaur-like appearance.
 Murkadamia Nut: Now obtained from Modern Day Level 4. It has gameplay applications as a counter to Newspaper Zombie.
-Nightshade: Now obtained from Modern Day Level 14.
-Gloom Vine: Now obtained from Modern Day Level 19. It doesn't make sense to have this in the store at the start of the game when the player doesn't have any shadow plants yet.
-Thyme Warp: Now obtained from Modern Day Level 27. Fits thematically with the world.
+Nightshade: Now obtained from Modern Day Level 7.
+Grimrose: Now obtained from Modern Day Level 14. Having the last plant you obtain be a worse Squash would be underwhelming.
+Thyme Warp: Now obtained from Modern Day Level 23. Fits thematically with the world the last plant the player gets should be powerful.
+Gloom Vine: Now obtained from Modern Day Level 20. It doesn't make sense to have this in the store at the start of the game when the player doesn't have any shadow plants yet.
 Angel Starfruit: Now obtainable from the store after completing Modern Day Level 13. A plant this powerful should be saved for the final world.
 Snowdrop: Now obtained from KongFu Temple Level 6. Replaces Snow Pea. A better fit for this world as it can ignore weapon stands and Hammer Zombie.
 Explode-O-Nut: Now obtainable from the store after completing KongFu Temple Level 22. Replaces Power Lily. Fits in an explosive-themed world.
@@ -283,7 +285,7 @@ Seashooter: ▲ Extinguishes flames
 Parsnip: ▼ Sun Cost: 150 → 175
          ▼ Recharge: 5 → 10
          ▼ Attack rate: 0.8 → 1
-         A bit overtuned. In spite of its power, it doesn't need more changes as spending 150 sun to replace it balances it out.
+         A bit overtuned. In spite of its power, it doesn't need more changes as spending 175 sun to replace it balances it out.
 		 
 Aqua Vine: ▲ Extinguishes flames
            ▼ Damage: 30 → 25
@@ -412,6 +414,9 @@ Electric Blueberry/Caulipower: ▲ Normal zombie targeting %: 55 → 50
 Strawburst: ▼ Plant Food Damage: 400 → 600
             Not only is the damage of its Plant Food effect poor, but it punishes you for being good at the game. If you effectively hold off the zombies, they will never be able to enter the range of its Plant Food effect. Only
 			one of these changes is possible to rectify. It should be able to kill Coneheads now.
+			
+Hot Date: ▼ Recharge: 25 → 30
+            Slight recharge increase to make it more of an in-between of Sweet Potato and Jalapeno.
 
 Primal Peashooter: ▼ Sun Cost: 175 → 225
                    ▼ Damage: 60 → 50
@@ -464,21 +469,21 @@ Murkadamia Nut: ▲ Jelly Health: 1500 → 4000
 				Its base health has been reduced since it looks too small to have that much health. The jelly health has been increased signifcantly to encourage players to power it up and it is ridiculous that it needs to be
 				powered up just to have the same health as the much cheaper Wall-nut. The recharge increase prevents it from being used over Endurian, its closest competitor.
 
-Shadow-shroom: ▼ Recharge: 10 → 15
-               Done to prevent it from outclassing Potato Mine.
-
 Nightshade: ▲ No longer loses leaves while powered
             ▲ Damage (powered): 100 → 150
 			▼ Damage (normal): 200 → 100
             ▼ Sun Cost: 75 → 150
-			This plant was frustrating to use. Powering it up is supposed to make it stronger, but its damage is halved for some reason. The leaf recharge is also too slow that it often prevents it from defending itself. Now, the
+			This plant was frustrating to use. Powering it up is supposed to make it stronger, but its damage is halved for some reason. The leaf recharge is also so slow that it often prevents it from defending itself. Now, the
 			player is properly rewarded for powering it up with more damage and having leaves at all times.
+
+Shadow-shroom: ▼ Recharge: 10 → 15
+               Done to prevent it from outclassing Potato Mine.
+			   
+Grimrose: ▲ Sun Cost: 75 → 50
+          It's a worse version of Squash. Even when powered, it will kill less zombies than Squash on average. This is the most its sun cost can be reduced to without outclassing Potato Mine.
 
 Dusk Lobber: ▼ Sun Cost: 150 → 175
              A plant with lower damage than the average lobber carried by its ability to target multiple lanes. Its sun cost has been increased slightly to make it harder to put out on the lawn.
-
-Grimrose: ▲ Sun Cost: 75 → 50
-          It's a worse version of Squash. Even when powered, it will kill less zombies than Squash on average. This is the most its sun cost can be reduced to without outclassing Potato Mine.
 
 Angel Starfruit: ▼ Projectile Speed: 1 → 0.6
                  Changed in conjunction with Starfruit.
@@ -543,6 +548,11 @@ Floawer Pot: ▲ Plant fooded Floawer Pots can be moved, regardless of whether t
 Mega Gatling Pea: ▼ Recharge: 5 → 40
                   Contrary to what the in-game tips say, Mega Gatling Pea is in fact better than Gatling Pea. The plant food activation chance alone makes it outclass Gatling Pea. Giving it a slow recharge should properly 
                   compensate for its devastating power.
+				  
+Headbutter Lettuce: ▲ Recharge: 10 → 5
+                    ▼ Sun Cost: 175 → 425
+					Its high damage has been kept to make it distinct from other melee plants with a fittingly massive sun cost increase to go along with it.
+                    
 			
 Chilly Pepper: ▼ Recharge: 25 → 40
                ▼ Damage: 1200 → 900

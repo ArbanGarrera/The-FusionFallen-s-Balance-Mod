@@ -1,20 +1,97 @@
 ==What's New?==
-Dark Ages Level 2 : Plants are no longer pre-selected.
+At long last, the world map has received changes. New world plants are now properly displayed on the world map and access to certain Epic Quests have been cut off.
 
-Big Wave Beach Level 6: Plants are no longer pre-selected.
+Tangle Kelp has been moved to Big Wave Beach Level 5 for better level flow.
 
-Big Wave Beach Level 11: Plants are no longer pre-selected.
+Guacodile has been moved to Big Wave Beach Level 17 for better level flow.
 
-Big Wave Beach Level 18 and 19: Levels are swapped. Plants in new Level 18 are no longer pre-selected.
+Spikerock has been moved to Neon Mixtape Tour Level 14.
 
-Frostbite Caves Level 5 and 6: Levels are swapped. Plants in new Level 5 are no longer pre-selected.
+Perfume-shroom has been moved to Jurassic Marsh Level 8 for better level flow.
 
-Frostbite Caves Level 19: Plants are no longer pre-selected.
+Nightshade has been moved to Modern Day Level 7.
 
-Frostbite Caves Level 29: Replaced Wall-nut with Chard Guard.
+Grimrose has been moved to Modern Day Level 14. It would be an underwhelming final plant.
 
-Frostbite Caves Level 37: Replaced Hurrikale with Jalapeno.
+Thyme Warp has been moved to Modern Day Level 23.
 
-Lost City Level 5 and 6: Levels are swapped. Plants in new Level 5 are no longer pre-selected.
+Squash has been moved to Ancient Egypt Level 6-1.
 
-Lost City Level 13 and 14: Levels are swapped.
+Hot Date and its Epic Quest has been moved to Neon Mixtape Tour.
+
+Reinforce-mint Level 1 and 4: Removed.
+                              No longer required now that Pumpkin is no longer part of the quest. The rest of the quest's levels have been adjusted.
+
+Reinforce-mint Level 7: New Reinforce-mint Level 5.
+                        Unbanned Electric Currant and Heavenly Peach.
+						
+Big Wave Beach Level 11 and 12: Swapped levels.
+						
+Big Wave Beach Level 17 and 18: Swapped levels.
+						
+Pepper-mint Level 1 and 9: Removed.
+                           No longer required now that Pyre Vine is no longer part of the quest. The rest of the quest's levels have been adjusted.
+						   
+Pepper-mint Level 5: New Pepper-mint Level 4.
+                     Added Pepper-pult and Lava Guava to the plant lineup.
+
+Lost City Level 18 and 19: Levels are swapped.
+
+Lost City Level 21 and 22: Levels are swapped.
+                           Toadstool is removed from new Level 21's plant lineup.
+						   
+Lost City Level 25: Plants are no longer pre-selected.
+
+Lost City Level 26: Gold Leaf is no longer pre-selected.
+
+Lost City Level 28: Replaced Stunion with Iceberg Lettuce. Iceberg Lettuce is needed to extinguish the Gargantuar's torch.
+
+Lost City Level 34: Unbanned Blover.
+
+Lost City Level 35: Removed sun spending limit.
+
+Lost City Level 37: Added Umbrella Leaf to the plant lineup.
+
+Neon Mixtape Tour Level 4: Plants are no longer pre-selected.
+
+Neon Mixtape Tour Level 7: Plants are no longer pre-selected.
+
+Neon Mixtape Tour Level 14: Added Spikerock to the plant lineup.
+
+Neon Mixtape Tour Level 27: Replaced Shrinking Violet with Spikerock.
+
+Neon Mixtape Tour Level 33: Unbanned Blover and Hurrikale.
+
+Neon Mixtape Tour Level 34: Replaced Iceberg Lettuce with Sap-fling.
+
+Jurassic Marsh 1: Primal Peashooter is no longer pre-selected.
+
+Jurassic Marsh 2: Primal Peashooter is no longer pre-selected.
+
+Jurassic Marsh 5: Primal Wall-nut is no longer pre-selected.
+
+Jurassic Marsh Level 9: Replaced Jalapeno with Hurrikale.
+
+Jurassic Marsh Level 17: Plants are no longer pre-selected.
+
+Jurassic Marsh Level 20 and 21: Swapped rewards.
+
+Jurassic Marsh Level 34: Replaced Gold Bloom with Sun Bean.
+
+Modern Day Level 9: Re-added Nightshade to the plant lineup and removed Snow Pea.
+
+Modern Day Level 11: Plants are no longer pre-selected.
+
+Modern Day Level 19 and 20: Swapped rewards.
+
+Modern Day Level 19 and 20: Swapped rewards.
+
+Aerial Fortress Level 6: Replaced Rotobaga with Umbrella Leaf.
+
+Aerial Fortress Level 17 and 18: Swapped levels.
+
+Aerial Fortress Level 31: Replaced Moon Bean with Solar Sage.
+
+Aerial Fortress Level 23: Added Ampthurium to the plant lineup.
+
+Aerial Fortress Level 31: Replaced Moon Bean with Ghost Pepper.
