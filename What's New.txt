@@ -1,5 +1,5 @@
 ==What's New?==
-Heabutter Lettuce's sun cost has been increased from from 175 to 450, its health has been reduced from 900 to 300 and its recharge has been reduced from 10 to 5.
+Headbutter Lettuce's sun cost has been increased from from 175 to 450, its health has been reduced from 900 to 300 and its recharge has been reduced from 10 to 5.
 
 Laser Bean's firing rate has been increased from 3 to 2 in order to increase its damage output and allow it to deal with the zombie waves it triggers. Its sun cost has been increased from 200 to 300 to compensate.
 
