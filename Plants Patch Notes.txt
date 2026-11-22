@@ -182,6 +182,12 @@ Electric Peashooter: ▼ Sun Cost: 200 → 325
 
 Electric Currant: ▲ Sun Cost: 150 → 75
                   The problem with this plant is that you need two of them in order for the plant to function. You will always be spending twice as much sun on it for not enough reward.
+				  
+Laser Bean: ▲ Firing Rate: 3 → 2
+            ▼ Sun Cost: 200 → 300
+			While Laser Bean doesn't seem bad at first, it has a hidden downside. The game has a hidden check where if a wave's collective health is 50% or less, the next wave is triggered. As Laser Bean hits all zombies in its
+			lane, it triggers waves before the player is ready to deal with them. It also fires slowly, making it ineffective at killing zombies while causing more to spawn. Rather than just increase the damage, its firing rate 
+			has been increased. It makes it stand out from the other piercing plants and it references its original version, which did 20 damage, but fired faster.
 
 Blover: ▼ Sun Cost: 50 → 100
         ▼ Recharge: 5 → 20
@@ -507,7 +513,7 @@ Noctarine: ▲ Sun Cost: 150 → 75
 Gold Bloom: ▼ Sun produced 375 → 200
             Makes the game too easy.
 
-Snowdrop: ▼ Sun Cost: 200 → 250
+Snowdrop: ▼ Sun Cost: 200 → 275
           ▼ Firing rate: 2.25 → 3
 		  ▼ Icicle chance: 30% → 25%
 		  ▼ Icicles only freeze zombies.
@@ -550,7 +556,8 @@ Mega Gatling Pea: ▼ Recharge: 5 → 40
                   compensate for its devastating power.
 				  
 Headbutter Lettuce: ▲ Recharge: 10 → 5
-                    ▼ Sun Cost: 175 → 425
+                    ▼ Sun Cost: 175 → 450
+					▼ Health: 900 → 300
 					Its high damage has been kept to make it distinct from other melee plants with a fittingly massive sun cost increase to go along with it.
                     
 			

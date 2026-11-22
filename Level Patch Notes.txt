@@ -474,6 +474,14 @@ Aerial Fortress Level 32: Added Rotobaga and Lantern Cherry to the plant lineup.
 
 Appease-mint 1 Level 4: Removed some of the Bot Swarms.
                         Blover isn't as available due to its increased sun cost and recharge. The Bot Swarms have been thinned to accomodate this change.
+						
+Arma-mint Epic Quest: Moved to Pirate Seas.
+						
+Arma-mint Level 3: Reduced delay between seed packets.
+                   The player is often screwed over because of the frequent tidal changes, leading to you losing your Lotorpedoes. Seed packets now spawn faster so the player can easily replace any lost Lotorpedoes.
+
+Arma-mint Level 9: Added Umbrella Leaf to the plant lineup.
+                   While this level is still possible, being forced to lose your Sunflowers every wave isn't fun. Now you have a way to properly deal with the Lost Pilot Veterans.
 
 Buttercup Level 2: Added Iceberg Lettuce to the plant lineup.
                    No longer possible due to it being harder to get Buttercups on the lawn due to its increased recharge. Iceberg Lettuce was added as an additional option to hold off the zombies.
@@ -561,12 +569,6 @@ Parsnip Level 5: Removed Blover from the plant lineup.
                  Added Bowling Bulb and Shrinking Violet to the plant lineup. 
 				 Reduced the number of Gargantuars.
 				 Blover is useless due to the nerfs it received and the nerfs to Parsnip. Bowling Bulb has been added for an extra damage source and Shrinking Violet has been added to deal with the Gargantuars.
-				 
-Arma-mint Level 3: Reduced delay between seed packets.
-                   The player is often screwed over because of the frequent tidal changes, leading to you losing your Lotorpedoes. Seed packets now spawn faster so the player can easily replace any lost Lotorpedoes.
-
-Arma-mint Level 9: Added Umbrella Leaf to the plant lineup.
-                   While this level is still possible, being forced to lose your Sunflowers every wave isn't fun. Now you have a way to properly deal with the Lost Pilot Veterans.
 
 Ice Bloom Level 1: Removed 15-plant limitation.
                    Limiting the amount of plants on the lawn is never fair.
@@ -617,6 +619,8 @@ Strawburst Level 6: Replaced Zombie King Veterans with Knight Zombies.
 					 
 Mirror-nut Level 3: Removed objective.
                     Sun spending limits aren't fair.
+					
+Hot Date Epic Quest: Moved to Neon Mixtape Tour.
 					
 Meteor Flower Level 2: Torch Monks no longer spawn from the portals.
                        It's ridiculous to spawn fire zombies in a level that forces you to use a fire plant.
