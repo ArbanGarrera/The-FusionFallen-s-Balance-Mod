@@ -48,9 +48,6 @@ Fisherman Zombie: ▼ Health: 1000 → 200
 				  
 Troglobite: ▲ Health: 470 → 510
             Pretty much useless after all of his ice blocks are destroyed. It should have a bit more staying power now.
-			
-Bug Zombies: ▲ Immune to Umbrella Leaf.
-             Umbrella Leaf shouldn't be bouncing them because flying over a plant and then descending hardly counts as falling.
 
 Relic Hunter Zombie: ▼ Health: 700 → 300
                      Too much health for an unarmored zombie that appears in the middle of the lawn.

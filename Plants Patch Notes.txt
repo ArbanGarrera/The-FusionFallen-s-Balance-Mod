@@ -140,6 +140,12 @@ Iceweed: ▼ Sun Cost 150 → 200
          ▼ Recharge: 5 → 10
          Too strong for how little it costs. It does the same damage of Spikeweed, but with its chilling ability, it might as well be a Spikerock that can't survive insta-kills. Its new price and recharge should be more 
 		 representative of its strength.
+		 
+Lotorpedo: ▼ Removed stun on waterbound zombies.
+		   The stun was a bit much.
+
+Stickybomb Rice: ▼ Sun Cost: 225 → 325
+				 Due to its multi-lane targetting, it is easy to spam them for massive damage. Its sun cost has been increased to make it harder to spam.
 
 Buttercup: ▼ Recharge: 10 → 20
            ▼ Health: 900 → 300
@@ -244,6 +250,9 @@ Scaredy-shroom: ▼ Sun Cost: 25 → 75
                 ▼ Removed knockback chance
                 Very overtuned to the point it's just a better Peashooter. You can plant several of them in the back and their spores' knockback ensures zombies can never get close to them. Its sun cost has been increased and the
                 knockback has been removed. Now it is what it should have been, a cheaper Peashooter with an extra weakness.
+				
+Pumpkin: ▼ Recharge: 20 → 30
+         Its recharge was originally 30 when it was added. It was reduced at an unknown point. This has been reversed the main problem with this plant was its spamability.
 
 Witch Hazel: ▲ Immune to Wizard Zombies.
              ▼ Recharge: 30 → 40
@@ -287,21 +296,15 @@ Missile Toe: ▼ Recharge: 5 → 10
 Seashooter: ▲ Extinguishes flames
             ▼ Sun Cost: 275 → 350
             This plant is a better Threepeater, even when landbound. The sun cost increase makes it so that players would be more reluctant to use it over Threepeater outside of Big Wave Beach.
+			
+Aqua Vine: ▲ Extinguishes flames
+           ▼ Damage: 30 → 25
+           Slight nerf to prevent it from power creeping Red Stinger and Pea Vine.
 
 Parsnip: ▼ Sun Cost: 150 → 175
          ▼ Recharge: 5 → 10
          ▼ Attack rate: 0.8 → 1
          A bit overtuned. In spite of its power, it doesn't need more changes as spending 175 sun to replace it balances it out.
-		 
-Aqua Vine: ▲ Extinguishes flames
-           ▼ Damage: 30 → 25
-           Slight nerf to prevent it from power creeping Red Stinger and Pea Vine.
-
-Lotorpedo: ▼ Removed stun on waterbound zombies.
-		   The stun was a bit much.
-
-Stickybomb Rice: ▼ Sun Cost: 225 → 325
-				 Due to its multi-lane targetting, it is easy to spam them for massive damage. Its sun cost has been increased to make it harder to spam.
 
 Ice Bloom: ▼ Recharge: 30 → 75
            ▼ Damage: 200 → 0
@@ -559,7 +562,6 @@ Headbutter Lettuce: ▲ Recharge: 10 → 5
                     ▼ Sun Cost: 175 → 450
 					▼ Health: 900 → 300
 					Its high damage has been kept to make it distinct from other melee plants with a fittingly massive sun cost increase to go along with it.
-                    
 			
 Chilly Pepper: ▼ Recharge: 25 → 40
                ▼ Damage: 1200 → 900

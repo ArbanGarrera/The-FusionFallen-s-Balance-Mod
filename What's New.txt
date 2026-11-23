@@ -1,4 +1,4 @@
 ==What's New?==
-All Gargantuars, except for Airborne Gargantuars are now immune to Blover to avoid easily trivializing them.
+Reverted Pumpkin's recharge back to 30. The 30 second recharge kept it balanced. I have no idea why the devs decided to change it.
 
-Jetpack Zombie, Blastronaut Zombie, Disco Jetpack Zombie, Bug Zombies and Balloon Zombie are now immune to Umbrella Leaf. Flying over a plant, then descending hardly counts as falling.
+Undid the Bug Zombies' immunity to Umbrella Leaf as it makes the plant less useful in its own world.
