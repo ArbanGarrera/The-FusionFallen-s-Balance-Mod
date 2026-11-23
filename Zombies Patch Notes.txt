@@ -9,9 +9,10 @@ Basic Zombies: Health 190 → 200
 Imps: ▼ Health: 190 → 150
       Despite being smaller, Imps are better than normal zombies since they have the same health, but are faster. All Imps (except the Jurassic Marsh ones) have had their health reduced to make them a bit more unique.
 	  
-Gargantuars: ▲ All Gargantuars with the exception Sloth Gargantuar are immune to Inferno's knockback.
-             Even with all of the nerfs, Inferno could still infinitely stall Gargantuars. This should no longer be a problem. The Sloth Gargantuar was made an exception to this rule to emphasize Frostbite Caves' zombies' 
-			 weakness to fire.
+Gargantuars: ▲ All Gargantuars with the exception Airborne Gargantuar are immune to Blover.
+             ▲ All Gargantuars with the exception Sloth Gargantuar are immune to Inferno's knockback.
+             Blover shouldn't be allowed to trivialize Gargantuars and even with all of the nerfs, Inferno could still infinitely stall Gargantuars. This should no longer be a problem. The Sloth Gargantuar was made an exception 
+			 to this rule to emphasize Frostbite Caves' zombies' weakness to fire.
 			 
 Ra Zombie: ▲ Doubled sun absorption speed.
            This zombie was never dangerous. You could always take your sun back before he could absorb it. Now he is an actual threat.
@@ -24,7 +25,9 @@ Chicken Wrangler Zombie: ▲ Health: 200 → 270
                          Reverted to pre-6.3.1. health to make it a bit more threatening after he releases his chickens.
 
 Jetpack Zombies: ▲ Speed: 0.3 → 0.4
-                 Never really that threatening due to being trivialized by Blover. They are a bit faster now and Blover has been nerfed, making them more of a threat.
+                 ▲ Immune to Umbrella Leaf.
+                 Never really that threatening due to being trivialized by Blover. They are a bit faster now and Blover has been nerfed, making them more of a threat. Umbrella Leaf shouldn't be bouncing them because flying over a
+				 plant and then descending hardly counts as falling.
 
 Jester Zombie: ▼ Health: 420 → 300
                A bit too much health for how dangerous it is. It often requires at least two Fume-shrooms to be dealt with and the player often lacks the sun for that. A minimal health reduction should make it fair to fight.
@@ -45,6 +48,9 @@ Fisherman Zombie: ▼ Health: 1000 → 200
 				  
 Troglobite: ▲ Health: 470 → 510
             Pretty much useless after all of his ice blocks are destroyed. It should have a bit more staying power now.
+			
+Bug Zombies: ▲ Immune to Umbrella Leaf.
+             Umbrella Leaf shouldn't be bouncing them because flying over a plant and then descending hardly counts as falling.
 
 Relic Hunter Zombie: ▼ Health: 700 → 300
                      Too much health for an unarmored zombie that appears in the middle of the lawn.
@@ -63,7 +69,8 @@ Newspaper Zombie: ▼ Damage multiplier: 4 → 3
                   Way too strong. It takes too much effort to destroy the newspaper and it becomes insanely strong after. It will likely decimate your defenses or trigger a lawnmower before it can be killed. Its toughness, and 
                   increased speed have been reduced so it should be a little easier to handle.
 
-Balloon Zombie: ▼ Grounded speed: 0.4 → 0.185
+Balloon Zombie: ▲ Immune to Umbrella Leaf.
+                ▼ Grounded speed: 0.4 → 0.185
                 The player should be rewarded for popping its balloon by slowing it down.
 				
 All-Star Zombie: ▼ Head can be removed by Magnet-shroom.
